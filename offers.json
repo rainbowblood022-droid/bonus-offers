@@ -557,11 +557,11 @@
    "reward_value": null,
    "regions": [],
    "expired": false,
+   "is_offer": true,
    "url": "https://www.doctorofcredit.com/best-cash-credit-card-sign-up-bonuses/",
    "published": "2020-05-26",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
-   "is_offer": true
+   "last_seen": "2026-11-01"
   },
   {
    "id": "ubs-launches-new-visa-infinite-card-premium-benefits-50000-signup-bonus-495-annual-fee",
@@ -572,11 +572,11 @@
    "reward_value": 495,
    "regions": [],
    "expired": true,
+   "is_offer": true,
    "url": "https://www.doctorofcredit.com/ubs-launches-new-visa-infinite-card-premium-benefits-50000-signup-bonus-495-annual-fee/",
    "published": "2020-05-24",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
-   "is_offer": true
+   "last_seen": "2026-11-01"
   },
   {
    "id": "amazon-prime-rewards-visa-signature-card-review-5-back-amazon",
@@ -587,11 +587,11 @@
    "reward_value": null,
    "regions": [],
    "expired": false,
+   "is_offer": true,
    "url": "https://www.doctorofcredit.com/amazon-prime-rewards-visa-signature-card-review-5-back-amazon/",
    "published": "2020-01-22",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
-   "is_offer": true
+   "last_seen": "2026-11-01"
   },
   {
    "id": "fidelity-visa-2-back-card-100-sign-bonus-publicly-available",
@@ -602,11 +602,11 @@
    "reward_value": 100,
    "regions": [],
    "expired": false,
+   "is_offer": true,
    "url": "https://www.doctorofcredit.com/fidelity-visa-2-back-card-100-sign-bonus-publicly-available/",
    "published": "2019-02-11",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
-   "is_offer": true
+   "last_seen": "2026-11-01"
   },
   {
    "id": "bank-of-america-virgin-atlantic-75000-mile-after-12000-spend-offer-15000-mile-anniversary-bonus",
@@ -617,11 +617,11 @@
    "reward_value": 75000,
    "regions": [],
    "expired": true,
+   "is_offer": true,
    "url": "https://www.doctorofcredit.com/bank-of-america-virgin-atlantic-75000-mile-after-12000-spend-offer-15000-mile-anniversary-bonus/",
    "published": "2019-01-06",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
-   "is_offer": true
+   "last_seen": "2026-11-01"
   },
   {
    "id": "chase-british-airways-visa-signature-up-to-100000-avios-offer-is-back",
@@ -632,11 +632,11 @@
    "reward_value": null,
    "regions": [],
    "expired": false,
+   "is_offer": true,
    "url": "https://www.doctorofcredit.com/chase-british-airways-visa-signature-up-to-100000-avios-offer-is-back/",
    "published": "2018-04-19",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
-   "is_offer": true
+   "last_seen": "2026-11-01"
   },
   {
    "id": "chase-iberia-plus-card-now-offering-100000-points",
@@ -647,11 +647,11 @@
    "reward_value": 100000,
    "regions": [],
    "expired": false,
+   "is_offer": true,
    "url": "https://www.doctorofcredit.com/chase-iberia-plus-card-now-offering-100000-points/",
    "published": "2018-04-19",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
-   "is_offer": true
+   "last_seen": "2026-11-01"
   },
   {
    "id": "chase-launches-aer-lingus-card-with-100000-point-bonus",
@@ -662,11 +662,11 @@
    "reward_value": 100000,
    "regions": [],
    "expired": false,
+   "is_offer": true,
    "url": "https://www.doctorofcredit.com/chase-launches-aer-lingus-card-with-100000-point-bonus/",
    "published": "2018-04-19",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
-   "is_offer": true
+   "last_seen": "2026-11-01"
   },
   {
    "id": "u-s-bank-offering-150-bonuses-cash-cash-365",
@@ -677,11 +677,11 @@
    "reward_value": 150,
    "regions": [],
    "expired": false,
+   "is_offer": true,
    "url": "https://www.doctorofcredit.com/u-s-bank-offering-150-bonuses-cash-cash-365/",
    "published": "2018-02-15",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
-   "is_offer": true
+   "last_seen": "2026-11-01"
   },
   {
    "id": "50000-hawaiian-airlines-mile-credit-card-bonus-barclaycard",
@@ -692,11 +692,11 @@
    "reward_value": 50000,
    "regions": [],
    "expired": false,
+   "is_offer": true,
    "url": "https://www.doctorofcredit.com/50000-hawaiian-airlines-mile-credit-card-bonus-barclaycard/",
    "published": "2018-01-18",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
-   "is_offer": true
+   "last_seen": "2026-11-01"
   },
   {
    "id": "t-mobile-tuesdays-free-movie-bogo-snapple-hersheys-givingtuesday",
@@ -722,11 +722,11 @@
    "reward_value": 40000,
    "regions": [],
    "expired": true,
+   "is_offer": true,
    "url": "https://www.doctorofcredit.com/citi-prestige-40000-thankyou-points-signup-bonus-back/",
    "published": "2017-11-23",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
-   "is_offer": true
+   "last_seen": "2026-11-01"
   },
   {
    "id": "citi-thankyou-premier-50000-points-bonus-now-available-online",
@@ -737,11 +737,11 @@
    "reward_value": 50000,
    "regions": [],
    "expired": true,
+   "is_offer": true,
    "url": "https://www.doctorofcredit.com/citi-thankyou-premier-50000-points-bonus-now-available-online/",
    "published": "2017-11-22",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
-   "is_offer": true
+   "last_seen": "2026-11-01"
   },
   {
    "id": "targeted-business-gold-rewards-80000-point-offer",
@@ -752,11 +752,11 @@
    "reward_value": 80000,
    "regions": [],
    "expired": false,
+   "is_offer": true,
    "url": "https://www.doctorofcredit.com/targeted-business-gold-rewards-80000-point-offer/",
    "published": "2017-11-15",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
-   "is_offer": true
+   "last_seen": "2026-11-01"
   },
   {
    "id": "t-mobile-tuesdays-free-hoodiesocks-4-wonder-movie-ticket-bogo-baskin-robbins",
@@ -782,11 +782,11 @@
    "reward_value": 100,
    "regions": [],
    "expired": false,
+   "is_offer": true,
    "url": "https://www.doctorofcredit.com/discover-to-lower-referral-signup-bonus-from-100-to-50-on-january-1-statement-credit-vs-cashback-bonus/",
    "published": "2017-11-10",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
-   "is_offer": true
+   "last_seen": "2026-11-01"
   },
   {
    "id": "us-bank-aeromexico-visas-20000-25000-miles-2000",
@@ -797,11 +797,11 @@
    "reward_value": 30000,
    "regions": [],
    "expired": false,
+   "is_offer": true,
    "url": "https://www.doctorofcredit.com/us-bank-aeromexico-visas-20000-25000-miles-2000/",
    "published": "2017-11-08",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
-   "is_offer": true
+   "last_seen": "2026-11-01"
   },
   {
    "id": "free-60-day-kindle-unlimited-trial-from-groupon",
