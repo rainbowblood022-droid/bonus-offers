@@ -30,7 +30,8 @@
  "updated": {
   "bank": "2026-11-01",
   "credit_card": "2026-11-01",
-  "brokerage": "2026-11-01"
+  "brokerage": "2026-11-01",
+  "debit_card": "2026-11-01"
  },
  "offers": [
   {
@@ -502,6 +503,51 @@
    "last_seen": "2026-11-01"
   },
   {
+   "id": "proposed-fold-app-visa-debit-card-earn-bitcoin-as-rewards-waitlist",
+   "category": "debit_card",
+   "institution": "Fold App Visa Debit Card",
+   "title": "Fold App Visa Debit Card – Earn Bitcoin as Rewards",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/proposed-fold-app-visa-debit-card-earn-bitcoin-as-rewards-waitlist/",
+   "published": "2020-11-25",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "coinbase-visa-debit-card-earn-crypto-as-rewards-waitlist",
+   "category": "debit_card",
+   "institution": "Coinbase Visa Debit Card",
+   "title": "Coinbase Visa Debit Card – Earn Crypto as Rewards [Waitlist]",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/coinbase-visa-debit-card-earn-crypto-as-rewards-waitlist/",
+   "published": "2020-11-04",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "waitlist-crypto-nexo-prepaid-mastercard",
+   "category": "debit_card",
+   "institution": "Nexo Prepaid Mastercard",
+   "title": "Nexo Prepaid Mastercard",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/waitlist-crypto-nexo-prepaid-mastercard/",
+   "published": "2020-07-15",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
    "id": "best-cash-credit-card-sign-up-bonuses",
    "category": "credit_card",
    "institution": "Best Cash Credit Card Sign Up Bonuses For 2020",
@@ -725,6 +771,66 @@
    "first_seen": "2026-11-01",
    "last_seen": "2026-11-01",
    "is_offer": true
+  },
+  {
+   "id": "master-list-no-annual-fee-no-foreign-transaction-fee-cards",
+   "category": "debit_card",
+   "institution": "Master List of No Annual Fee, No Foreign Transaction Fee Cards",
+   "title": "Master List of No Annual Fee, No Foreign Transaction Fee Cards",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/master-list-no-annual-fee-no-foreign-transaction-fee-cards/",
+   "published": "2017-01-19",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "circle-pay-review",
+   "category": "debit_card",
+   "institution": "Circle Pay",
+   "title": "Circle Pay Review – Send & Receive Money Without Fees (No Charge For Debit Cards) W/ $10 Sign Up Bonus",
+   "reward_type": "cash",
+   "reward_value": 10,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/circle-pay-review/",
+   "published": "2016-06-30",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "psa-make-sure-you-use-your-chime-card-or-youll-be-charged-a-fee",
+   "category": "debit_card",
+   "institution": "PSA",
+   "title": "PSA: Make Sure You Use Your Chime Card Or You’ll Be Charged A Fee",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/psa-make-sure-you-use-your-chime-card-or-youll-be-charged-a-fee/",
+   "published": "2015-08-03",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "merchant-credit-debit-card-fees-explained-surcharges-convenience-fees-cash-discounts",
+   "category": "debit_card",
+   "institution": "Merchant Credit & Debit Card Fees Explained",
+   "title": "Merchant Credit & Debit Card Fees Explained: Surcharges, Convenience Fees & Cash Discounts",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/merchant-credit-debit-card-fees-explained-surcharges-convenience-fees-cash-discounts/",
+   "published": "2014-11-14",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
   }
  ]
 }
