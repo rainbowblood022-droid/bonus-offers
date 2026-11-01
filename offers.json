@@ -31,7 +31,8 @@
   "bank": "2026-11-01",
   "credit_card": "2026-11-01",
   "brokerage": "2026-11-01",
-  "debit_card": "2026-11-01"
+  "debit_card": "2026-11-01",
+  "freebie": "2026-11-01"
  },
  "offers": [
   {
@@ -698,6 +699,21 @@
    "is_offer": true
   },
   {
+   "id": "t-mobile-tuesdays-free-movie-bogo-snapple-hersheys-givingtuesday",
+   "category": "freebie",
+   "institution": "T-Mobile Tuesdays",
+   "title": "T-Mobile Tuesdays: Free Movie, BOGO Snapple & Hershey’s, #GivingTuesday",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": true,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/t-mobile-tuesdays-free-movie-bogo-snapple-hersheys-givingtuesday/",
+   "published": "2017-11-28",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
    "id": "citi-prestige-40000-thankyou-points-signup-bonus-back",
    "category": "credit_card",
    "institution": "Citi Prestige",
@@ -743,6 +759,21 @@
    "is_offer": true
   },
   {
+   "id": "t-mobile-tuesdays-free-hoodiesocks-4-wonder-movie-ticket-bogo-baskin-robbins",
+   "category": "freebie",
+   "institution": "T-Mobile Tuesdays",
+   "title": "T-Mobile Tuesdays:  $4 Wonder Movie Ticket, BOGO Baskin Robbins & More",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": true,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/t-mobile-tuesdays-free-hoodiesocks-4-wonder-movie-ticket-bogo-baskin-robbins/",
+   "published": "2017-11-14",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
    "id": "discover-to-lower-referral-signup-bonus-from-100-to-50-on-january-1-statement-credit-vs-cashback-bonus",
    "category": "credit_card",
    "institution": "Discover to Lower Referral Signup Bonus from",
@@ -773,6 +804,51 @@
    "is_offer": true
   },
   {
+   "id": "free-60-day-kindle-unlimited-trial-from-groupon",
+   "category": "freebie",
+   "institution": "Free 60-Day Kindle Unlimited Trial from Groupon",
+   "title": "Free 60-Day Kindle Unlimited Trial from Groupon",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": true,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/free-60-day-kindle-unlimited-trial-from-groupon/",
+   "published": "2017-11-07",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "t-mobile-tuesdays-25-off-shell-redbox-movie-25-restaurant-com-online-course",
+   "category": "freebie",
+   "institution": "T-Mobile Tuesdays",
+   "title": "T-Mobile Tuesdays: $.25 off at Shell, Redbox Movie, $25 Restaurant.com, Online Course & More",
+   "reward_type": "cash",
+   "reward_value": 25,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/t-mobile-tuesdays-25-off-shell-redbox-movie-25-restaurant-com-online-course/",
+   "published": "2017-09-05",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "t-mobile-tuesdays-2",
+   "category": "freebie",
+   "institution": "T-Mobile Tuesdays",
+   "title": "T-Mobile Tuesdays: Free Vudu, Prints, Magazines & More",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/t-mobile-tuesdays-2/",
+   "published": "2017-08-29",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
    "id": "master-list-no-annual-fee-no-foreign-transaction-fee-cards",
    "category": "debit_card",
    "institution": "Master List of No Annual Fee, No Foreign Transaction Fee Cards",
@@ -784,6 +860,21 @@
    "is_offer": false,
    "url": "https://www.doctorofcredit.com/master-list-no-annual-fee-no-foreign-transaction-fee-cards/",
    "published": "2017-01-19",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "checkpoints-app-review-earn-giftcard-miles-mobile-shopping-rewards-app",
+   "category": "freebie",
+   "institution": "CheckPoints App",
+   "title": "CheckPoints App Review – Earn Giftcard & Miles – Mobile Shopping Rewards App",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/checkpoints-app-review-earn-giftcard-miles-mobile-shopping-rewards-app/",
+   "published": "2016-07-30",
    "first_seen": "2026-11-01",
    "last_seen": "2026-11-01"
   },
@@ -829,6 +920,21 @@
    "is_offer": false,
    "url": "https://www.doctorofcredit.com/merchant-credit-debit-card-fees-explained-surcharges-convenience-fees-cash-discounts/",
    "published": "2014-11-14",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "free-lego-on-the-first-tuesday-every-month-ages-6-to-14-only",
+   "category": "freebie",
+   "institution": "Free LEGO On The First Tuesday Every Month [Ages 6 to 14 Only]",
+   "title": "Free LEGO On The First Tuesday Every Month [Ages 6 to 14 Only]",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/free-lego-on-the-first-tuesday-every-month-ages-6-to-14-only/",
+   "published": "2014-08-20",
    "first_seen": "2026-11-01",
    "last_seen": "2026-11-01"
   }
