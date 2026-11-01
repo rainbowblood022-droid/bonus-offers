@@ -12,6 +12,8 @@ const cases = [
   ['E*Trade: Up To $6,000 Brokerage Bonus ($1k-$2M Required)', { institution: 'E*Trade', value: 6000, regions: [] }],
   ['[Expired] UBS Visa Infinite Card Review: 100,000 Signup Bonus + $495 Annual Fee Waived First Year', { institution: 'UBS Visa Infinite Card', expired: true }],
   ['[6% $150k Cap Added] X Money Review &#8211; 6% APY/$300 Bonus &#038; 3% Back On Debit Card Purchases', { institution: 'X Money', value: 300, expired: false, regions: [] }],
+  ['Bank of America Virgin Atlantic 75,000 Mile After $12,000 Spend', { institution: 'Bank of America Virgin Atlantic', value: 75000 }],
+  ['Chase Sapphire Preferred 100k Points Signup Bonus', { institution: 'Chase Sapphire Preferred', value: 100000 }],
 ];
 for (const [raw, want] of cases) {
   const got = parseTitle(decode(raw));

@@ -47,10 +47,14 @@ export function parseTitle(title) {
     /^[\s\d$,/\-–k+]*(?:\w+\s+){0,2}(bonus|referral|promotion|promo|cash\s*back|statement\s*credit|gift\s*card)/i.test(clean.slice(m.index + m[0].length)) ||
     /up\s+to\s*$/i.test(clean.slice(0, m.index)));
   const dollars = (named.length ? named : all).map((m) => Number(m[1].replace(/,/g, '')) * (m[2] ? 1000 : 1));
-  const points = [...clean.matchAll(/([\d,]{3,})\s*(?:bonus\s+)?(points|miles|pts)\b/gi)].map((m) => Number(m[1].replace(/,/g, '')));
-  const reward = dollars.length ? { type: 'cash', value: Math.max(...dollars) } : points.length ? { type: 'points', value: Math.max(...points) } : { type: 'cash', value: null };
+  // points or miles ("75,000 Mile", "100,000 Signup Bonus Points"): the reward when no dollar amount is named as one
+  // (a card's "$12,000 spend" is a requirement)
+  const points = [...clean.matchAll(/([\d,]{4,}|\d+k)\s*(?:\w+\s+){0,2}?(points?|miles?|pts)\b/gi)].map((m) => /k$/i.test(m[1]) ? Number(m[1].slice(0, -1)) * 1000 : Number(m[1].replace(/,/g, '')));
+  const reward = named.length ? { type: 'cash', value: Math.max(...dollars) }
+    : points.length ? { type: 'points', value: Math.max(...points) }
+    : dollars.length ? { type: 'cash', value: Math.max(...dollars) } : { type: 'cash', value: null };
   // who: the words before the amount, a colon or a dash ("TradeStation: Deposit...", "InTouch Credit Union $100...")
-  const institution = clean.split(/\s+(?:Up\s+To\s+)?\$|:|\s[–—-]\s|\s(?:Review|Get|Earn|Offers?)\b/i)[0].replace(/\s+/g, ' ').trim().slice(0, 80) || clean.slice(0, 80);
+  const institution = clean.split(/\s+(?:Up\s+To\s+)?\$|:|\s[–—-]\s|\s(?:Review|Get|Earn|Offers?)\b|\s\d[\d,]{2,}\s*(?:\w+\s+)?(?:points?|miles?|pts|signup|sign-up)\b/i)[0].replace(/\s+/g, ' ').trim().slice(0, 80) || clean.slice(0, 80);
   return { institution, reward, regions: nationwide ? [] : regions, expired, title: clean };
 }
 
