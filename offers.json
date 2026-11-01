@@ -46,7 +46,8 @@
    "url": "https://www.doctorofcredit.com/ga-select-counties-robins-financial-credit-union-200-checking-bonus/",
    "published": "2026-10-31",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "in-oh-mi-first-merchants-bank-300-500-checking-promotion",
@@ -64,7 +65,8 @@
    "url": "https://www.doctorofcredit.com/in-oh-mi-first-merchants-bank-300-500-checking-promotion/",
    "published": "2026-10-31",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "in-only-cap-ed-credit-union-100-checking-bonus-no-direct-deposit-required",
@@ -80,7 +82,8 @@
    "url": "https://www.doctorofcredit.com/in-only-cap-ed-credit-union-100-checking-bonus-no-direct-deposit-required/",
    "published": "2026-10-31",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "mi-nv-tx-va-intouch-credit-union-100-referral-bonus-direct-deposit-optional",
@@ -99,7 +102,8 @@
    "url": "https://www.doctorofcredit.com/mi-nv-tx-va-intouch-credit-union-100-referral-bonus-direct-deposit-optional/",
    "published": "2026-10-31",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "pa-md-only-acnb-1000-2000-checking-bonus",
@@ -116,7 +120,8 @@
    "url": "https://www.doctorofcredit.com/pa-md-only-acnb-1000-2000-checking-bonus/",
    "published": "2026-10-31",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "x-money-review-6-apy-300-bonus-3-back-on-debit-card-purchases",
@@ -130,7 +135,8 @@
    "url": "https://www.doctorofcredit.com/x-money-review-6-apy-300-bonus-3-back-on-debit-card-purchases/",
    "published": "2026-10-31",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "citi-300-checking-bonus",
@@ -144,7 +150,8 @@
    "url": "https://www.doctorofcredit.com/citi-300-checking-bonus/",
    "published": "2026-10-30",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "crypto-platform-binance-hacked-5-7-billion-stolen",
@@ -152,13 +159,14 @@
    "institution": "Crypto Platform Binance Hacked",
    "title": "Crypto Platform Binance Hacked – $6.3 Billion Stolen",
    "reward_type": "cash",
-   "reward_value": 6.3,
+   "reward_value": null,
    "regions": [],
    "expired": false,
    "url": "https://www.doctorofcredit.com/crypto-platform-binance-hacked-5-7-billion-stolen/",
    "published": "2026-10-30",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": false
   },
   {
    "id": "mercury-fintech-500-business-checking-bonus",
@@ -172,7 +180,8 @@
    "url": "https://www.doctorofcredit.com/mercury-fintech-500-business-checking-bonus/",
    "published": "2026-10-30",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "new-i-bonds-rate-5-51-apy-variable-4-11-fixed-1-40",
@@ -186,7 +195,8 @@
    "url": "https://www.doctorofcredit.com/new-i-bonds-rate-5-51-apy-variable-4-11-fixed-1-40/",
    "published": "2026-10-30",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": false
   },
   {
    "id": "silo-markets-ongoing-brokerage-bonus-0-5x-1x-points-per-1-transfer-partners-coming",
@@ -194,18 +204,19 @@
    "institution": "Silo Markets",
    "title": "Silo Markets: Ongoing Brokerage Bonus (0.5x – 1x Points Per $1, Transfer Partners Coming)",
    "reward_type": "cash",
-   "reward_value": 1,
+   "reward_value": null,
    "regions": [],
    "expired": false,
    "url": "https://www.doctorofcredit.com/silo-markets-ongoing-brokerage-bonus-0-5x-1x-points-per-1-transfer-partners-coming/",
    "published": "2026-10-30",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "sofi-launches-sofi-earn-4-4-apy-with-fdic-protection",
    "category": "bank",
-   "institution": "SoFi Launches SoFi",
+   "institution": "SoFi",
    "title": "SoFi Launches SoFi Earn – 4.4% APY With ‘FDIC Protection’",
    "reward_type": "cash",
    "reward_value": null,
@@ -214,7 +225,8 @@
    "url": "https://www.doctorofcredit.com/sofi-launches-sofi-earn-4-4-apy-with-fdic-protection/",
    "published": "2026-10-30",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": false
   },
   {
    "id": "wings-credit-union-200-checking-bonus-direct-deposit-not-required",
@@ -230,12 +242,13 @@
    "url": "https://www.doctorofcredit.com/wings-credit-union-200-checking-bonus-direct-deposit-not-required/",
    "published": "2026-10-30",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "paypal-launches-debit-card-that-earns-5-back-on-one-category-up-to-1000",
    "category": "bank",
-   "institution": "PayPal Launches Debit Card That Earns 5% Back On One Category (Up To",
+   "institution": "PayPal",
    "title": "PayPal Launches Debit Card That Earns 5% Back On One Category (Up To $1,000)",
    "reward_type": "cash",
    "reward_value": 1000,
@@ -244,7 +257,8 @@
    "url": "https://www.doctorofcredit.com/paypal-launches-debit-card-that-earns-5-back-on-one-category-up-to-1000/",
    "published": "2026-10-29",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "robinhood-gold-3-ira-transfer-bonus-unlimited-cash-bonus",
@@ -258,7 +272,8 @@
    "url": "https://www.doctorofcredit.com/robinhood-gold-3-ira-transfer-bonus-unlimited-cash-bonus/",
    "published": "2026-10-29",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "best-cash-credit-card-sign-up-bonuses",
@@ -272,7 +287,8 @@
    "url": "https://www.doctorofcredit.com/best-cash-credit-card-sign-up-bonuses/",
    "published": "2020-05-26",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "ubs-launches-new-visa-infinite-card-premium-benefits-50000-signup-bonus-495-annual-fee",
@@ -286,7 +302,8 @@
    "url": "https://www.doctorofcredit.com/ubs-launches-new-visa-infinite-card-premium-benefits-50000-signup-bonus-495-annual-fee/",
    "published": "2020-05-24",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "amazon-prime-rewards-visa-signature-card-review-5-back-amazon",
@@ -300,7 +317,8 @@
    "url": "https://www.doctorofcredit.com/amazon-prime-rewards-visa-signature-card-review-5-back-amazon/",
    "published": "2020-01-22",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "fidelity-visa-2-back-card-100-sign-bonus-publicly-available",
@@ -314,21 +332,23 @@
    "url": "https://www.doctorofcredit.com/fidelity-visa-2-back-card-100-sign-bonus-publicly-available/",
    "published": "2019-02-11",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "bank-of-america-virgin-atlantic-75000-mile-after-12000-spend-offer-15000-mile-anniversary-bonus",
    "category": "credit_card",
-   "institution": "Bank of America Virgin Atlantic 75,000 Mile After",
+   "institution": "Bank of America Virgin Atlantic",
    "title": "Bank of America Virgin Atlantic 75,000 Mile After $12,000 Spend Offer + 15,000 Mile Anniversary Bonus",
-   "reward_type": "cash",
-   "reward_value": 12000,
+   "reward_type": "points",
+   "reward_value": 75000,
    "regions": [],
    "expired": true,
    "url": "https://www.doctorofcredit.com/bank-of-america-virgin-atlantic-75000-mile-after-12000-spend-offer-15000-mile-anniversary-bonus/",
    "published": "2019-01-06",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "chase-british-airways-visa-signature-up-to-100000-avios-offer-is-back",
@@ -342,12 +362,13 @@
    "url": "https://www.doctorofcredit.com/chase-british-airways-visa-signature-up-to-100000-avios-offer-is-back/",
    "published": "2018-04-19",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "chase-iberia-plus-card-now-offering-100000-points",
    "category": "credit_card",
-   "institution": "Chase Iberia Plus Card Now Offering 100,000 Points",
+   "institution": "Chase Iberia Plus Card Now Offering",
    "title": "Chase Iberia Plus Card Now Offering 100,000 Points",
    "reward_type": "points",
    "reward_value": 100000,
@@ -356,21 +377,23 @@
    "url": "https://www.doctorofcredit.com/chase-iberia-plus-card-now-offering-100000-points/",
    "published": "2018-04-19",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "chase-launches-aer-lingus-card-with-100000-point-bonus",
    "category": "credit_card",
-   "institution": "Chase Launches Aer Lingus Card With 100,000 Point Bonus",
+   "institution": "Chase",
    "title": "Chase Launches Aer Lingus Card With 100,000 Point Bonus",
-   "reward_type": "cash",
-   "reward_value": null,
+   "reward_type": "points",
+   "reward_value": 100000,
    "regions": [],
    "expired": false,
    "url": "https://www.doctorofcredit.com/chase-launches-aer-lingus-card-with-100000-point-bonus/",
    "published": "2018-04-19",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "u-s-bank-offering-150-bonuses-cash-cash-365",
@@ -384,40 +407,43 @@
    "url": "https://www.doctorofcredit.com/u-s-bank-offering-150-bonuses-cash-cash-365/",
    "published": "2018-02-15",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "50000-hawaiian-airlines-mile-credit-card-bonus-barclaycard",
    "category": "credit_card",
    "institution": "50,000 Hawaiian Airlines Mile Credit Card Bonus From Barclaycard",
    "title": "50,000 Hawaiian Airlines Mile Credit Card Bonus From Barclaycard",
-   "reward_type": "cash",
-   "reward_value": null,
+   "reward_type": "points",
+   "reward_value": 50000,
    "regions": [],
    "expired": false,
    "url": "https://www.doctorofcredit.com/50000-hawaiian-airlines-mile-credit-card-bonus-barclaycard/",
    "published": "2018-01-18",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "citi-prestige-40000-thankyou-points-signup-bonus-back",
    "category": "credit_card",
-   "institution": "Citi Prestige 40,000 ThankYou Points Signup Bonus is Back",
+   "institution": "Citi Prestige",
    "title": "Citi Prestige 40,000 ThankYou Points Signup Bonus is Back",
-   "reward_type": "cash",
-   "reward_value": null,
+   "reward_type": "points",
+   "reward_value": 40000,
    "regions": [],
    "expired": true,
    "url": "https://www.doctorofcredit.com/citi-prestige-40000-thankyou-points-signup-bonus-back/",
    "published": "2017-11-23",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "citi-thankyou-premier-50000-points-bonus-now-available-online",
    "category": "credit_card",
-   "institution": "Citi ThankYou Premier 50,000 Points Bonus Now Publicly Available Online (Working",
+   "institution": "Citi ThankYou Premier",
    "title": "Citi ThankYou Premier 50,000 Points Bonus Now Publicly Available Online (Working Link Found)",
    "reward_type": "points",
    "reward_value": 50000,
@@ -426,21 +452,23 @@
    "url": "https://www.doctorofcredit.com/citi-thankyou-premier-50000-points-bonus-now-available-online/",
    "published": "2017-11-22",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "targeted-business-gold-rewards-80000-point-offer",
    "category": "credit_card",
-   "institution": "Business Gold Rewards 80,000 Point",
+   "institution": "Business Gold Rewards",
    "title": "Business Gold Rewards 80,000 Point Offer",
-   "reward_type": "cash",
-   "reward_value": null,
+   "reward_type": "points",
+   "reward_value": 80000,
    "regions": [],
    "expired": false,
    "url": "https://www.doctorofcredit.com/targeted-business-gold-rewards-80000-point-offer/",
    "published": "2017-11-15",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "discover-to-lower-referral-signup-bonus-from-100-to-50-on-january-1-statement-credit-vs-cashback-bonus",
@@ -454,21 +482,23 @@
    "url": "https://www.doctorofcredit.com/discover-to-lower-referral-signup-bonus-from-100-to-50-on-january-1-statement-credit-vs-cashback-bonus/",
    "published": "2017-11-10",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   },
   {
    "id": "us-bank-aeromexico-visas-20000-25000-miles-2000",
    "category": "credit_card",
    "institution": "US Bank Aeromexico Visas",
    "title": "US Bank Aeromexico Visas – 25,000 or 30,000 Miles / $2,000",
-   "reward_type": "cash",
-   "reward_value": 2000,
+   "reward_type": "points",
+   "reward_value": 30000,
    "regions": [],
    "expired": false,
    "url": "https://www.doctorofcredit.com/us-bank-aeromexico-visas-20000-25000-miles-2000/",
    "published": "2017-11-08",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-01",
+   "is_offer": true
   }
  ]
 }

@@ -42,11 +42,13 @@ export function parseTitle(title) {
   // amounts: "$1,000", "$300/$600", "$1,000-$3,000", "Up To $6,000": the largest; else points ("100,000 points").
   // A deposit or spend requirement isn't the reward: amounts next to "Bonus"/"Referral"/"Promotion" or after
   // "Up To" win when there are any ("Deposit $5,000+ & Earn $250 Bonus" -> 250).
-  const all = [...clean.matchAll(/\$\s?([\d,]+(?:\.\d+)?)\s*(k)?\b/gi)];
+  // "$6.3 Billion Stolen" is news, not an amount
+  const all = [...clean.matchAll(/\$\s?([\d,]+(?:\.\d+)?)\s*(k)?\b(?!\s*(?:billion|million|bn)\b)/gi)];
   const named = all.filter((m) =>
     /^[\s\d$,/\-–k+]*(?:\w+\s+){0,2}(bonus|referral|promotion|promo|cash\s*back|statement\s*credit|gift\s*card)/i.test(clean.slice(m.index + m[0].length)) ||
     /up\s+to\s*$/i.test(clean.slice(0, m.index)));
-  const dollars = (named.length ? named : all).map((m) => Number(m[1].replace(/,/g, '')) * (m[2] ? 1000 : 1));
+  // an unnamed amount under $10 is a rate ("1x Points Per $1"), not a bonus
+  const dollars = (named.length ? named : all).map((m) => Number(m[1].replace(/,/g, '')) * (m[2] ? 1000 : 1)).filter((v) => named.length || v >= 10);
   // points or miles ("75,000 Mile", "100,000 Signup Bonus Points"): the reward when no dollar amount is named as one
   // (a card's "$12,000 spend" is a requirement)
   const points = [...clean.matchAll(/([\d,]{4,}|\d+k)\s*(?:\w+\s+){0,2}?(points?|miles?|pts)\b/gi)].map((m) => /k$/i.test(m[1]) ? Number(m[1].slice(0, -1)) * 1000 : Number(m[1].replace(/,/g, '')));
@@ -54,8 +56,10 @@ export function parseTitle(title) {
     : points.length ? { type: 'points', value: Math.max(...points) }
     : dollars.length ? { type: 'cash', value: Math.max(...dollars) } : { type: 'cash', value: null };
   // who: the words before the amount, a colon or a dash ("TradeStation: Deposit...", "InTouch Credit Union $100...")
-  const institution = clean.split(/\s+(?:Up\s+To\s+)?\$|:|\s[–—-]\s|\s(?:Review|Get|Earn|Offers?)\b|\s\d[\d,]{2,}\s*(?:\w+\s+)?(?:points?|miles?|pts|signup|sign-up)\b/i)[0].replace(/\s+/g, ' ').trim().slice(0, 80) || clean.slice(0, 80);
-  return { institution, reward, regions: nationwide ? [] : regions, expired, title: clean };
+  const institution = clean.split(/\s+(?:Up\s+To\s+)?\$|:|\s[–—-]\s|\s(?:Review|Get|Earn|Earns|Offers?|Launches|Adds)\b|\s\d[\d,]{2,}\s*(?:\w+\s+)?(?:points?|miles?|pts|signup|sign-up)\b/i)[0].replace(/\s+/g, ' ').trim().slice(0, 80) || clean.slice(0, 80);
+  // an offer, not news ("Binance Hacked", "New I-Bonds Rate", "SoFi Launches SoFi Earn"): it names a reward
+  const isOffer = /\b(bonus(es)?|promotion|promo|referral|sign[\s-]?up|offer|free|freebie|giveaway|cash\s*back|statement\s*credit|\d+%\s*(back|off|discount)|\d+x\s*points|points|miles|discount|bogo|rebate)\b/i.test(clean);
+  return { institution, reward, regions: nationwide ? [] : regions, expired, title: clean, isOffer };
 }
 
 /** The items of an RSS feed: title, link, date, id. */
@@ -82,6 +86,7 @@ export function merge(data, category, items, today) {
       reward_value: p.reward.value,
       regions: p.regions,
       expired: p.expired,
+      is_offer: p.isOffer,
       url: it.link,
       published: it.date,
       first_seen: old?.first_seen ?? today,
@@ -89,7 +94,12 @@ export function merge(data, category, items, today) {
     });
   }
   const cutoff = new Date(Date.parse(today) - KEEP_DAYS * 864e5).toISOString().slice(0, 10);
-  const offers = [...byUrl.values()].filter((o) => o.last_seen >= cutoff).sort((a, b) => b.published.localeCompare(a.published) || a.id.localeCompare(b.id));
+  const offers = [...byUrl.values()].filter((o) => o.last_seen >= cutoff).map((o) => {
+      // facts read again from the saved title, so a parser fix reaches offers already in the file (states and
+      // "expired" come from the full title's brackets, kept from when it was read)
+      const q = parseTitle(o.title);
+      return { ...o, institution: q.institution, reward_type: q.reward.type, reward_value: q.reward.value, is_offer: q.isOffer };
+    }).sort((a, b) => b.published.localeCompare(a.published) || a.id.localeCompare(b.id));
   return { ...data, offers, updated: { ...data.updated, [category]: today } };
 }
 

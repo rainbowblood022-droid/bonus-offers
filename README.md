@@ -25,6 +25,7 @@ applying. This repo isn't affiliated with Doctor of Credit.
     "reward_type": "cash", "reward_value": 100,
     "regions": ["MI", "NV", "TX", "VA"],
     "expired": false,
+    "is_offer": true,
     "url": "https://www.doctorofcredit.com/...",
     "published": "2026-10-31", "first_seen": "2026-10-31", "last_seen": "2026-10-31"
   }]
@@ -32,6 +33,7 @@ applying. This repo isn't affiliated with Doctor of Credit.
 ```
 
 - `regions`: postal codes the offer is limited to; empty = no limit in the title (nationwide or not stated).
+- `is_offer`: false for news posts in a category feed (rates, launches, hacks) whose title names no reward.
 - `reward_value`: the largest bonus amount in the title (points for points offers); null when the title has none.
 - An offer is dropped 120 days after it last appeared in its feed.
 

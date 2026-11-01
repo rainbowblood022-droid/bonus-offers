@@ -14,10 +14,15 @@ const cases = [
   ['[6% $150k Cap Added] X Money Review &#8211; 6% APY/$300 Bonus &#038; 3% Back On Debit Card Purchases', { institution: 'X Money', value: 300, expired: false, regions: [] }],
   ['Bank of America Virgin Atlantic 75,000 Mile After $12,000 Spend', { institution: 'Bank of America Virgin Atlantic', value: 75000 }],
   ['Chase Sapphire Preferred 100k Points Signup Bonus', { institution: 'Chase Sapphire Preferred', value: 100000 }],
+  ['Crypto Platform Binance Hacked &#8211; $6.3 Billion Stolen', { value: null, isOffer: false }],
+  ['New I-Bonds Rate: 5.51% APY (Variable 4.11% + Fixed 1.40%)', { isOffer: false }],
+  ['SoFi Launches SoFi Earn &#8211; 4.4% APY With &#8216;FDIC Protection&#8217;', { institution: 'SoFi', isOffer: false }],
+  ['Silo Markets: Ongoing Brokerage Bonus (0.5x &#8211; 1x Points Per $1, Transfer Partners Coming)', { institution: 'Silo Markets', value: null, isOffer: true }],
+  ['PayPal Launches Debit Card That Earns 5% Back On One Category (Up To $1,000)', { institution: 'PayPal', isOffer: true }],
 ];
 for (const [raw, want] of cases) {
   const got = parseTitle(decode(raw));
-  const pick = { institution: got.institution, value: got.reward.value, regions: got.regions, expired: got.expired };
+  const pick = { institution: got.institution, value: got.reward.value, regions: got.regions, expired: got.expired, isOffer: got.isOffer };
   for (const [k, v] of Object.entries(want)) assert.deepEqual(pick[k], v, `${raw}\n  ${k}: got ${JSON.stringify(pick[k])}`);
 }
 // merging keeps when an offer was first seen and drops ones not seen for 120 days
