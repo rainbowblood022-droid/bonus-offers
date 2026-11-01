@@ -1,0 +1,263 @@
+{
+ "schema_version": 1,
+ "source": "Doctor of Credit (doctorofcredit.com), titles and links only",
+ "categories": [
+  {
+   "id": "bank",
+   "name": "Bank account bonuses"
+  },
+  {
+   "id": "credit_card",
+   "name": "Credit card bonuses"
+  },
+  {
+   "id": "brokerage",
+   "name": "Brokerage bonuses"
+  },
+  {
+   "id": "gift_card",
+   "name": "Gift card deals"
+  },
+  {
+   "id": "debit_card",
+   "name": "Debit card bonuses"
+  },
+  {
+   "id": "freebie",
+   "name": "Free items"
+  }
+ ],
+ "updated": {
+  "bank": "2026-11-01"
+ },
+ "offers": [
+  {
+   "id": "ga-select-counties-robins-financial-credit-union-200-checking-bonus",
+   "category": "bank",
+   "institution": "Robins Financial Credit Union",
+   "title": "Robins Financial Credit Union $300 Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 300,
+   "regions": [
+    "GA"
+   ],
+   "expired": false,
+   "url": "https://www.doctorofcredit.com/ga-select-counties-robins-financial-credit-union-200-checking-bonus/",
+   "published": "2026-10-31",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "in-oh-mi-first-merchants-bank-300-500-checking-promotion",
+   "category": "bank",
+   "institution": "First Merchants Bank",
+   "title": "First Merchants Bank $300/$600 Checking Promotion",
+   "reward_type": "cash",
+   "reward_value": 600,
+   "regions": [
+    "IN",
+    "OH",
+    "MI"
+   ],
+   "expired": false,
+   "url": "https://www.doctorofcredit.com/in-oh-mi-first-merchants-bank-300-500-checking-promotion/",
+   "published": "2026-10-31",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "in-only-cap-ed-credit-union-100-checking-bonus-no-direct-deposit-required",
+   "category": "bank",
+   "institution": "Cap Ed Credit Union",
+   "title": "Cap Ed Credit Union $200 Checking Bonus – No Direct Deposit Required",
+   "reward_type": "cash",
+   "reward_value": 200,
+   "regions": [
+    "ID"
+   ],
+   "expired": false,
+   "url": "https://www.doctorofcredit.com/in-only-cap-ed-credit-union-100-checking-bonus-no-direct-deposit-required/",
+   "published": "2026-10-31",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "mi-nv-tx-va-intouch-credit-union-100-referral-bonus-direct-deposit-optional",
+   "category": "bank",
+   "institution": "InTouch Credit Union",
+   "title": "InTouch Credit Union $100 Referral Bonus",
+   "reward_type": "cash",
+   "reward_value": 100,
+   "regions": [
+    "MI",
+    "NV",
+    "TX",
+    "VA"
+   ],
+   "expired": false,
+   "url": "https://www.doctorofcredit.com/mi-nv-tx-va-intouch-credit-union-100-referral-bonus-direct-deposit-optional/",
+   "published": "2026-10-31",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "pa-md-only-acnb-1000-2000-checking-bonus",
+   "category": "bank",
+   "institution": "ACNB",
+   "title": "ACNB $1,000-$3,000 Business Checking bonus",
+   "reward_type": "cash",
+   "reward_value": 3000,
+   "regions": [
+    "PA",
+    "MD"
+   ],
+   "expired": false,
+   "url": "https://www.doctorofcredit.com/pa-md-only-acnb-1000-2000-checking-bonus/",
+   "published": "2026-10-31",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "x-money-review-6-apy-300-bonus-3-back-on-debit-card-purchases",
+   "category": "bank",
+   "institution": "X Money",
+   "title": "X Money Review – 6% APY/$300 Bonus & 3% Back On Debit Card Purchases",
+   "reward_type": "cash",
+   "reward_value": 300,
+   "regions": [],
+   "expired": false,
+   "url": "https://www.doctorofcredit.com/x-money-review-6-apy-300-bonus-3-back-on-debit-card-purchases/",
+   "published": "2026-10-31",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "citi-300-checking-bonus",
+   "category": "bank",
+   "institution": "Citi",
+   "title": "Citi $325/$475/$500/$2,000/$4,000 Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 4000,
+   "regions": [],
+   "expired": false,
+   "url": "https://www.doctorofcredit.com/citi-300-checking-bonus/",
+   "published": "2026-10-30",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "crypto-platform-binance-hacked-5-7-billion-stolen",
+   "category": "bank",
+   "institution": "Crypto Platform Binance Hacked",
+   "title": "Crypto Platform Binance Hacked – $6.3 Billion Stolen",
+   "reward_type": "cash",
+   "reward_value": 6.3,
+   "regions": [],
+   "expired": false,
+   "url": "https://www.doctorofcredit.com/crypto-platform-binance-hacked-5-7-billion-stolen/",
+   "published": "2026-10-30",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "mercury-fintech-500-business-checking-bonus",
+   "category": "bank",
+   "institution": "Mercury (Fintech)",
+   "title": "Mercury (Fintech) $500 Business Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 500,
+   "regions": [],
+   "expired": false,
+   "url": "https://www.doctorofcredit.com/mercury-fintech-500-business-checking-bonus/",
+   "published": "2026-10-30",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "new-i-bonds-rate-5-51-apy-variable-4-11-fixed-1-40",
+   "category": "bank",
+   "institution": "New I-Bonds Rate",
+   "title": "New I-Bonds Rate: 5.51% APY (Variable 4.11% + Fixed 1.40%)",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "url": "https://www.doctorofcredit.com/new-i-bonds-rate-5-51-apy-variable-4-11-fixed-1-40/",
+   "published": "2026-10-30",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "silo-markets-ongoing-brokerage-bonus-0-5x-1x-points-per-1-transfer-partners-coming",
+   "category": "bank",
+   "institution": "Silo Markets",
+   "title": "Silo Markets: Ongoing Brokerage Bonus (0.5x – 1x Points Per $1, Transfer Partners Coming)",
+   "reward_type": "cash",
+   "reward_value": 1,
+   "regions": [],
+   "expired": false,
+   "url": "https://www.doctorofcredit.com/silo-markets-ongoing-brokerage-bonus-0-5x-1x-points-per-1-transfer-partners-coming/",
+   "published": "2026-10-30",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "sofi-launches-sofi-earn-4-4-apy-with-fdic-protection",
+   "category": "bank",
+   "institution": "SoFi Launches SoFi",
+   "title": "SoFi Launches SoFi Earn – 4.4% APY With ‘FDIC Protection’",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "url": "https://www.doctorofcredit.com/sofi-launches-sofi-earn-4-4-apy-with-fdic-protection/",
+   "published": "2026-10-30",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "wings-credit-union-200-checking-bonus-direct-deposit-not-required",
+   "category": "bank",
+   "institution": "Wings Credit Union",
+   "title": "Wings Credit Union $200 Checking Bonus, Direct Deposit Not Required",
+   "reward_type": "cash",
+   "reward_value": 200,
+   "regions": [
+    "CO"
+   ],
+   "expired": false,
+   "url": "https://www.doctorofcredit.com/wings-credit-union-200-checking-bonus-direct-deposit-not-required/",
+   "published": "2026-10-30",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "paypal-launches-debit-card-that-earns-5-back-on-one-category-up-to-1000",
+   "category": "bank",
+   "institution": "PayPal Launches Debit Card That Earns 5% Back On One Category (Up To",
+   "title": "PayPal Launches Debit Card That Earns 5% Back On One Category (Up To $1,000)",
+   "reward_type": "cash",
+   "reward_value": 1000,
+   "regions": [],
+   "expired": false,
+   "url": "https://www.doctorofcredit.com/paypal-launches-debit-card-that-earns-5-back-on-one-category-up-to-1000/",
+   "published": "2026-10-29",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "robinhood-gold-3-ira-transfer-bonus-unlimited-cash-bonus",
+   "category": "bank",
+   "institution": "Robinhood 3% IRA Transfer Bonus (Targeted)",
+   "title": "Robinhood 3% IRA Transfer Bonus (Targeted)",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "url": "https://www.doctorofcredit.com/robinhood-gold-3-ira-transfer-bonus-unlimited-cash-bonus/",
+   "published": "2026-10-29",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  }
+ ]
+}

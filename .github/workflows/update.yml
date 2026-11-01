@@ -1,0 +1,38 @@
+name: Update offers
+
+# Hourly, one Doctor of Credit category per run (each one every 6 hours): the site asks for 10+ minutes between
+# requests. Run it by hand from the Actions tab, optionally for one category.
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+    inputs:
+      category:
+        description: 'bank, credit_card, brokerage, gift_card, debit_card or freebie (empty = this hour''s)'
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-offers
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check the title parser
+        run: node tools/check.mjs
+      - name: Read one feed and merge it into offers.json
+        run: node tools/update.mjs ${{ github.event.inputs.category }}
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- offers.json; then echo "no changes"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add offers.json
+          git commit -m "Update offers ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push
