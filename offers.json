@@ -28,7 +28,7 @@
   }
  ],
  "updated": {
-  "bank": "2026-11-01",
+  "bank": "2026-11-02",
   "credit_card": "2026-11-02",
   "brokerage": "2026-11-01",
   "debit_card": "2026-11-02",
@@ -36,6 +36,106 @@
   "gift_card": "2026-11-02"
  },
  "offers": [
+  {
+   "id": "il-liberty-bank-for-savings-350-checking-250-savings-300-when-you-do-both",
+   "category": "bank",
+   "institution": "Liberty Bank For Savings",
+   "title": "Liberty Bank For Savings $350 Checking + $250 Savings + $300 When You Do Both",
+   "reward_type": "cash",
+   "reward_value": 350,
+   "regions": [
+    "IL"
+   ],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/il-liberty-bank-for-savings-350-checking-250-savings-300-when-you-do-both/",
+   "published": "2026-11-02",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02"
+  },
+  {
+   "id": "il-in-branch-united-trust-bank-350-checking-bonus",
+   "category": "bank",
+   "institution": "United Trust Bank",
+   "title": "United Trust Bank $350 Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 350,
+   "regions": [
+    "IL"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/il-in-branch-united-trust-bank-350-checking-bonus/",
+   "published": "2026-11-01",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02"
+  },
+  {
+   "id": "nc-acclaim-federal-credit-union-100-checking-bonus-direct-deposit-not-required",
+   "category": "bank",
+   "institution": "Acclaim Federal Credit Union",
+   "title": "Acclaim Federal Credit Union $100 Checking Bonus, Direct Deposit Not Required",
+   "reward_type": "cash",
+   "reward_value": 100,
+   "regions": [
+    "NC"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/nc-acclaim-federal-credit-union-100-checking-bonus-direct-deposit-not-required/",
+   "published": "2026-11-01",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02"
+  },
+  {
+   "id": "quorum-federal-credit-union-up-to-1000-savings-bonus",
+   "category": "bank",
+   "institution": "Quorum Federal Credit Union",
+   "title": "Quorum Federal Credit Union Up To $1,000 Savings Bonus",
+   "reward_type": "cash",
+   "reward_value": 1000,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/quorum-federal-credit-union-up-to-1000-savings-bonus/",
+   "published": "2026-11-01",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02"
+  },
+  {
+   "id": "tx-firstmark-credit-union-100-referral-checking-bonus-direct-deposit-not-required",
+   "category": "bank",
+   "institution": "Firstmark Credit Union",
+   "title": "Firstmark Credit Union $100 Referral Checking Bonus, Direct Deposit Not Required",
+   "reward_type": "cash",
+   "reward_value": 100,
+   "regions": [
+    "TX"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/tx-firstmark-credit-union-100-referral-checking-bonus-direct-deposit-not-required/",
+   "published": "2026-11-01",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02"
+  },
+  {
+   "id": "wa-northwest-plus-credit-union-200-checking-bonus",
+   "category": "bank",
+   "institution": "Northwest Plus Credit Union",
+   "title": "Northwest Plus Credit Union $200 Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 200,
+   "regions": [
+    "WA"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/wa-northwest-plus-credit-union-200-checking-bonus/",
+   "published": "2026-11-01",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02"
+  },
   {
    "id": "ga-select-counties-robins-financial-credit-union-200-checking-bonus",
    "category": "bank",
@@ -51,7 +151,7 @@
    "url": "https://www.doctorofcredit.com/ga-select-counties-robins-financial-credit-union-200-checking-bonus/",
    "published": "2026-10-31",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-02"
   },
   {
    "id": "in-oh-mi-first-merchants-bank-300-500-checking-promotion",
@@ -70,7 +170,7 @@
    "url": "https://www.doctorofcredit.com/in-oh-mi-first-merchants-bank-300-500-checking-promotion/",
    "published": "2026-10-31",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-02"
   },
   {
    "id": "in-only-cap-ed-credit-union-100-checking-bonus-no-direct-deposit-required",
@@ -87,7 +187,7 @@
    "url": "https://www.doctorofcredit.com/in-only-cap-ed-credit-union-100-checking-bonus-no-direct-deposit-required/",
    "published": "2026-10-31",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-02"
   },
   {
    "id": "mi-nv-tx-va-intouch-credit-union-100-referral-bonus-direct-deposit-optional",
@@ -107,7 +207,7 @@
    "url": "https://www.doctorofcredit.com/mi-nv-tx-va-intouch-credit-union-100-referral-bonus-direct-deposit-optional/",
    "published": "2026-10-31",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-02"
   },
   {
    "id": "pa-md-only-acnb-1000-2000-checking-bonus",
@@ -125,7 +225,7 @@
    "url": "https://www.doctorofcredit.com/pa-md-only-acnb-1000-2000-checking-bonus/",
    "published": "2026-10-31",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-02"
   },
   {
    "id": "x-money-review-6-apy-300-bonus-3-back-on-debit-card-purchases",
@@ -140,7 +240,7 @@
    "url": "https://www.doctorofcredit.com/x-money-review-6-apy-300-bonus-3-back-on-debit-card-purchases/",
    "published": "2026-10-31",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-02"
   },
   {
    "id": "citi-300-checking-bonus",
@@ -200,7 +300,7 @@
    "url": "https://www.doctorofcredit.com/mercury-fintech-500-business-checking-bonus/",
    "published": "2026-10-30",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-02"
   },
   {
    "id": "new-i-bonds-rate-5-51-apy-variable-4-11-fixed-1-40",
@@ -215,7 +315,7 @@
    "url": "https://www.doctorofcredit.com/new-i-bonds-rate-5-51-apy-variable-4-11-fixed-1-40/",
    "published": "2026-10-30",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-02"
   },
   {
    "id": "silo-markets-ongoing-brokerage-bonus-0-5x-1x-points-per-1-transfer-partners-coming",
@@ -230,7 +330,7 @@
    "url": "https://www.doctorofcredit.com/silo-markets-ongoing-brokerage-bonus-0-5x-1x-points-per-1-transfer-partners-coming/",
    "published": "2026-10-30",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-02"
   },
   {
    "id": "sofi-launches-sofi-earn-4-4-apy-with-fdic-protection",
