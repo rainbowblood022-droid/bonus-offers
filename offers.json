@@ -37,6 +37,39 @@
  },
  "offers": [
   {
+   "id": "ny-heritage-financial-credit-union-300-checking-bonus-direct-deposit-not-required",
+   "category": "bank",
+   "institution": "Heritage Financial Credit Union",
+   "title": "Heritage Financial Credit Union $300 Checking Bonus, Direct Deposit Not Required",
+   "reward_type": "cash",
+   "reward_value": 300,
+   "regions": [
+    "NY",
+    "PA"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/ny-heritage-financial-credit-union-300-checking-bonus-direct-deposit-not-required/",
+   "published": "2026-11-07",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "cit-bank-35-apy-boost-for-6-months-new-existing-customers-code-citboost",
+   "category": "bank",
+   "institution": "CIT Bank .6% APY Boost For 6 Months",
+   "title": "CIT Bank .6% APY Boost For 6 Months – New & Existing Customers (Code BOOST60)",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/cit-bank-35-apy-boost-for-6-months-new-existing-customers-code-citboost/",
+   "published": "2026-11-03",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
    "id": "moomoo-brokerage-bonus-up-to-1000-with-50000-deposit-more",
    "category": "bank",
    "institution": "MooMoo Brokerage Bonus",
