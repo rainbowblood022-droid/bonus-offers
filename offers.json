@@ -37,6 +37,23 @@
  },
  "offers": [
   {
+   "id": "al-avadian-credit-union-600-checking-bonus",
+   "category": "bank",
+   "institution": "Avadian Credit Union",
+   "title": "Avadian Credit Union $300 Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 300,
+   "regions": [
+    "AL"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/al-avadian-credit-union-600-checking-bonus/",
+   "published": "2026-11-07",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
    "id": "fl-nj-ny-popular-bank-400-business-checking-bonus",
    "category": "bank",
    "institution": "Popular Bank",
@@ -71,6 +88,36 @@
    "url": "https://www.doctorofcredit.com/ny-heritage-financial-credit-union-300-checking-bonus-direct-deposit-not-required/",
    "published": "2026-11-07",
    "first_seen": "2026-11-04",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "barclays-200-savings-bonus",
+   "category": "bank",
+   "institution": "Barclays",
+   "title": "Barclays $200-$400 Savings Bonus",
+   "reward_type": "cash",
+   "reward_value": 400,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/barclays-200-savings-bonus/",
+   "published": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "targeted-american-express-high-yield-savings-account-350-bonus",
+   "category": "bank",
+   "institution": "American Express High Yield Savings Account",
+   "title": "American Express High Yield Savings Account $400-$500 Bonus",
+   "reward_type": "cash",
+   "reward_value": 500,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/targeted-american-express-high-yield-savings-account-350-bonus/",
+   "published": "2026-11-05",
+   "first_seen": "2026-11-05",
    "last_seen": "2026-11-05"
   },
   {
