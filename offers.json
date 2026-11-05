@@ -28,7 +28,7 @@
   }
  ],
  "updated": {
-  "bank": "2026-11-04",
+  "bank": "2026-11-05",
   "credit_card": "2026-11-05",
   "brokerage": "2026-11-04",
   "debit_card": "2026-11-05",
@@ -36,6 +36,25 @@
   "gift_card": "2026-11-05"
  },
  "offers": [
+  {
+   "id": "fl-nj-ny-popular-bank-400-business-checking-bonus",
+   "category": "bank",
+   "institution": "Popular Bank",
+   "title": "Popular Bank $600 Business Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 600,
+   "regions": [
+    "FL",
+    "NJ",
+    "NY"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/fl-nj-ny-popular-bank-400-business-checking-bonus/",
+   "published": "2026-11-07",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
   {
    "id": "ny-heritage-financial-credit-union-300-checking-bonus-direct-deposit-not-required",
    "category": "bank",
@@ -52,7 +71,7 @@
    "url": "https://www.doctorofcredit.com/ny-heritage-financial-credit-union-300-checking-bonus-direct-deposit-not-required/",
    "published": "2026-11-07",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "cit-bank-35-apy-boost-for-6-months-new-existing-customers-code-citboost",
@@ -67,7 +86,7 @@
    "url": "https://www.doctorofcredit.com/cit-bank-35-apy-boost-for-6-months-new-existing-customers-code-citboost/",
    "published": "2026-11-03",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "moomoo-brokerage-bonus-up-to-1000-with-50000-deposit-more",
@@ -82,7 +101,7 @@
    "url": "https://www.doctorofcredit.com/moomoo-brokerage-bonus-up-to-1000-with-50000-deposit-more/",
    "published": "2026-11-03",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "select-unknown-states-2ufi-300-business-checking-bonus",
@@ -97,7 +116,7 @@
    "url": "https://www.doctorofcredit.com/select-unknown-states-2ufi-300-business-checking-bonus/",
    "published": "2026-11-03",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets",
@@ -112,7 +131,7 @@
    "url": "https://www.doctorofcredit.com/wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets/",
    "published": "2026-11-03",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "cvs-buy-100-zillions-giftcards-get-20-extrabucks-stack-for-more-savings",
@@ -144,7 +163,7 @@
    "url": "https://www.doctorofcredit.com/il-liberty-bank-for-savings-350-checking-250-savings-300-when-you-do-both/",
    "published": "2026-11-02",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "il-in-branch-united-trust-bank-350-checking-bonus",
@@ -161,7 +180,7 @@
    "url": "https://www.doctorofcredit.com/il-in-branch-united-trust-bank-350-checking-bonus/",
    "published": "2026-11-01",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "nc-acclaim-federal-credit-union-100-checking-bonus-direct-deposit-not-required",
@@ -178,7 +197,7 @@
    "url": "https://www.doctorofcredit.com/nc-acclaim-federal-credit-union-100-checking-bonus-direct-deposit-not-required/",
    "published": "2026-11-01",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "quorum-federal-credit-union-up-to-1000-savings-bonus",
@@ -193,7 +212,7 @@
    "url": "https://www.doctorofcredit.com/quorum-federal-credit-union-up-to-1000-savings-bonus/",
    "published": "2026-11-01",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "tx-firstmark-credit-union-100-referral-checking-bonus-direct-deposit-not-required",
@@ -210,7 +229,7 @@
    "url": "https://www.doctorofcredit.com/tx-firstmark-credit-union-100-referral-checking-bonus-direct-deposit-not-required/",
    "published": "2026-11-01",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "wa-northwest-plus-credit-union-200-checking-bonus",
@@ -227,7 +246,7 @@
    "url": "https://www.doctorofcredit.com/wa-northwest-plus-credit-union-200-checking-bonus/",
    "published": "2026-11-01",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "ga-select-counties-robins-financial-credit-union-200-checking-bonus",
@@ -280,7 +299,7 @@
    "url": "https://www.doctorofcredit.com/in-only-cap-ed-credit-union-100-checking-bonus-no-direct-deposit-required/",
    "published": "2026-10-31",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "mi-nv-tx-va-intouch-credit-union-100-referral-bonus-direct-deposit-optional",
@@ -300,7 +319,7 @@
    "url": "https://www.doctorofcredit.com/mi-nv-tx-va-intouch-credit-union-100-referral-bonus-direct-deposit-optional/",
    "published": "2026-10-31",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "pa-md-only-acnb-1000-2000-checking-bonus",
@@ -333,7 +352,7 @@
    "url": "https://www.doctorofcredit.com/x-money-review-6-apy-300-bonus-3-back-on-debit-card-purchases/",
    "published": "2026-10-31",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "citi-300-checking-bonus",
