@@ -28,7 +28,7 @@
   }
  ],
  "updated": {
-  "bank": "2026-11-05",
+  "bank": "2026-11-06",
   "credit_card": "2026-11-06",
   "brokerage": "2026-11-05",
   "debit_card": "2026-11-06",
@@ -36,6 +36,24 @@
   "gift_card": "2026-11-06"
  },
  "offers": [
+  {
+   "id": "sd-mn-american-bank-trust-250-checking-bonus",
+   "category": "bank",
+   "institution": "American Bank & Trust",
+   "title": "American Bank & Trust $600 Checking Bonus + $150 Savings Bonus",
+   "reward_type": "cash",
+   "reward_value": 600,
+   "regions": [
+    "SD",
+    "MN"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/sd-mn-american-bank-trust-250-checking-bonus/",
+   "published": "2026-11-08",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
   {
    "id": "al-avadian-credit-union-600-checking-bonus",
    "category": "bank",
@@ -51,7 +69,7 @@
    "url": "https://www.doctorofcredit.com/al-avadian-credit-union-600-checking-bonus/",
    "published": "2026-11-07",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "id": "fl-nj-ny-popular-bank-400-business-checking-bonus",
@@ -70,7 +88,7 @@
    "url": "https://www.doctorofcredit.com/fl-nj-ny-popular-bank-400-business-checking-bonus/",
    "published": "2026-11-07",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "id": "ny-heritage-financial-credit-union-300-checking-bonus-direct-deposit-not-required",
@@ -88,7 +106,58 @@
    "url": "https://www.doctorofcredit.com/ny-heritage-financial-credit-union-300-checking-bonus-direct-deposit-not-required/",
    "published": "2026-11-07",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
+  },
+  {
+   "id": "ny-hudson-valley-federal-credit-union-400-checking-bonus-direct-deposit-not-required",
+   "category": "bank",
+   "institution": "Hudson Valley Credit Union",
+   "title": "Hudson Valley Credit Union $500 Checking Bonus, Direct Deposit Not Required",
+   "reward_type": "cash",
+   "reward_value": 500,
+   "regions": [
+    "NY"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/ny-hudson-valley-federal-credit-union-400-checking-bonus-direct-deposit-not-required/",
+   "published": "2026-11-07",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
+  {
+   "id": "albert-fintech-get-200-in-stock-for-free",
+   "category": "bank",
+   "institution": "Albert (Fintech)",
+   "title": "Albert (Fintech): Get $1,000 In Stock For Free",
+   "reward_type": "cash",
+   "reward_value": 1000,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/albert-fintech-get-200-in-stock-for-free/",
+   "published": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
+  {
+   "id": "va-md-nc-atlantic-union-bank-250-checking-bonus",
+   "category": "bank",
+   "institution": "Atlantic Union Bank",
+   "title": "Atlantic Union Bank $400-$800 Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 800,
+   "regions": [
+    "VA",
+    "MD",
+    "NC"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/va-md-nc-atlantic-union-bank-250-checking-bonus/",
+   "published": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
   },
   {
    "id": "barclays-200-savings-bonus",
@@ -103,7 +172,22 @@
    "url": "https://www.doctorofcredit.com/barclays-200-savings-bonus/",
    "published": "2026-11-05",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
+  },
+  {
+   "id": "farmers-insurance-federal-credit-union-figfcu-up-to-1500-business-checking-bonus",
+   "category": "bank",
+   "institution": "Farmers Insurance Federal Credit Union (FIGFCU)",
+   "title": "Farmers Insurance Federal Credit Union (FIGFCU) Up To $1,500 Business Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 1500,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/farmers-insurance-federal-credit-union-figfcu-up-to-1500-business-checking-bonus/",
+   "published": "2026-11-05",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
   },
   {
    "id": "targeted-american-express-high-yield-savings-account-350-bonus",
@@ -118,7 +202,7 @@
    "url": "https://www.doctorofcredit.com/targeted-american-express-high-yield-savings-account-350-bonus/",
    "published": "2026-11-05",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "id": "cit-bank-35-apy-boost-for-6-months-new-existing-customers-code-citboost",
@@ -133,7 +217,7 @@
    "url": "https://www.doctorofcredit.com/cit-bank-35-apy-boost-for-6-months-new-existing-customers-code-citboost/",
    "published": "2026-11-03",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "id": "moomoo-brokerage-bonus-up-to-1000-with-50000-deposit-more",
@@ -148,7 +232,7 @@
    "url": "https://www.doctorofcredit.com/moomoo-brokerage-bonus-up-to-1000-with-50000-deposit-more/",
    "published": "2026-11-03",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "id": "select-unknown-states-2ufi-300-business-checking-bonus",
@@ -163,7 +247,7 @@
    "url": "https://www.doctorofcredit.com/select-unknown-states-2ufi-300-business-checking-bonus/",
    "published": "2026-11-03",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "id": "wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets",
@@ -178,7 +262,7 @@
    "url": "https://www.doctorofcredit.com/wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets/",
    "published": "2026-11-03",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "id": "cvs-buy-100-zillions-giftcards-get-20-extrabucks-stack-for-more-savings",
@@ -210,7 +294,7 @@
    "url": "https://www.doctorofcredit.com/il-liberty-bank-for-savings-350-checking-250-savings-300-when-you-do-both/",
    "published": "2026-11-02",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "id": "il-in-branch-united-trust-bank-350-checking-bonus",
