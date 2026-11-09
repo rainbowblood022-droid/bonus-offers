@@ -37,6 +37,23 @@
  },
  "offers": [
   {
+   "id": "tn-only-pinnacle-financial-partners-200-mastercard-checking-bonus",
+   "category": "bank",
+   "institution": "Pinnacle Financial Partners",
+   "title": "Pinnacle Financial Partners $200 Mastercard Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 200,
+   "regions": [
+    "TN"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/tn-only-pinnacle-financial-partners-200-mastercard-checking-bonus/",
+   "published": "2026-11-09",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
+  {
    "id": "co-only-zing-credit-union-300-checking-bonus",
    "category": "bank",
    "institution": "Zing Credit Union",
