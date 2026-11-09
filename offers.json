@@ -28,7 +28,7 @@
   }
  ],
  "updated": {
-  "bank": "2026-11-07",
+  "bank": "2026-11-09",
   "credit_card": "2026-11-08",
   "brokerage": "2026-11-07",
   "debit_card": "2026-11-08",
@@ -36,6 +36,23 @@
   "gift_card": "2026-11-08"
  },
  "offers": [
+  {
+   "id": "co-only-zing-credit-union-300-checking-bonus",
+   "category": "bank",
+   "institution": "Zing Credit Union",
+   "title": "Zing Credit Union $300 Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 300,
+   "regions": [
+    "CO"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/co-only-zing-credit-union-300-checking-bonus/",
+   "published": "2026-11-08",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
   {
    "id": "sd-mn-american-bank-trust-250-checking-bonus",
    "category": "bank",
@@ -52,7 +69,7 @@
    "url": "https://www.doctorofcredit.com/sd-mn-american-bank-trust-250-checking-bonus/",
    "published": "2026-11-08",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-07"
+   "last_seen": "2026-11-09"
   },
   {
    "id": "al-avadian-credit-union-600-checking-bonus",
@@ -69,7 +86,60 @@
    "url": "https://www.doctorofcredit.com/al-avadian-credit-union-600-checking-bonus/",
    "published": "2026-11-07",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-07"
+   "last_seen": "2026-11-09"
+  },
+  {
+   "id": "albert-fintech-get-200-in-stock-for-free",
+   "category": "bank",
+   "institution": "Albert (Fintech)",
+   "title": "Albert (Fintech): Get $1,000 In Stock (Requires $39.99 Per Month Account For 12 Months + 10k Invested)",
+   "reward_type": "cash",
+   "reward_value": 1000,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/albert-fintech-get-200-in-stock-for-free/",
+   "published": "2026-11-07",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-09"
+  },
+  {
+   "id": "co-only-on-tap-credit-union-150-checking-bonus",
+   "category": "bank",
+   "institution": "On Tap Credit Union",
+   "title": "On Tap Credit Union $150 Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 150,
+   "regions": [
+    "CO"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/co-only-on-tap-credit-union-150-checking-bonus/",
+   "published": "2026-11-07",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
+  {
+   "id": "fl-ma-nj-ny-vt-trustco-bank-250-stanley-cup-checking-bonus",
+   "category": "bank",
+   "institution": "Trustco Bank",
+   "title": "Trustco Bank $300 Checking + $200 Savings",
+   "reward_type": "cash",
+   "reward_value": 300,
+   "regions": [
+    "FL",
+    "MA",
+    "NJ",
+    "NY",
+    "VT"
+   ],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/fl-ma-nj-ny-vt-trustco-bank-250-stanley-cup-checking-bonus/",
+   "published": "2026-11-07",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
   },
   {
    "id": "fl-nj-ny-popular-bank-400-business-checking-bonus",
@@ -88,7 +158,7 @@
    "url": "https://www.doctorofcredit.com/fl-nj-ny-popular-bank-400-business-checking-bonus/",
    "published": "2026-11-07",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-07"
+   "last_seen": "2026-11-09"
   },
   {
    "id": "ny-heritage-financial-credit-union-300-checking-bonus-direct-deposit-not-required",
@@ -106,7 +176,7 @@
    "url": "https://www.doctorofcredit.com/ny-heritage-financial-credit-union-300-checking-bonus-direct-deposit-not-required/",
    "published": "2026-11-07",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-07"
+   "last_seen": "2026-11-09"
   },
   {
    "id": "ny-hudson-valley-federal-credit-union-400-checking-bonus-direct-deposit-not-required",
@@ -123,22 +193,25 @@
    "url": "https://www.doctorofcredit.com/ny-hudson-valley-federal-credit-union-400-checking-bonus-direct-deposit-not-required/",
    "published": "2026-11-07",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-07"
+   "last_seen": "2026-11-09"
   },
   {
-   "id": "albert-fintech-get-200-in-stock-for-free",
+   "id": "ut-goldenwest-credit-union-250-checking-bonus-ages-13-25-no-direct-deposit-required",
    "category": "bank",
-   "institution": "Albert (Fintech)",
-   "title": "Albert (Fintech): Get $1,000 In Stock For Free",
+   "institution": "Goldenwest Credit Union",
+   "title": "Goldenwest Credit Union $250 Checking Bonus (Ages 13-25, No Direct Deposit Required)",
    "reward_type": "cash",
-   "reward_value": 1000,
-   "regions": [],
-   "expired": true,
+   "reward_value": 250,
+   "regions": [
+    "UT",
+    "ID"
+   ],
+   "expired": false,
    "is_offer": true,
-   "url": "https://www.doctorofcredit.com/albert-fintech-get-200-in-stock-for-free/",
-   "published": "2026-11-06",
-   "first_seen": "2026-11-06",
-   "last_seen": "2026-11-07"
+   "url": "https://www.doctorofcredit.com/ut-goldenwest-credit-union-250-checking-bonus-ages-13-25-no-direct-deposit-required/",
+   "published": "2026-11-07",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
   },
   {
    "id": "cvs-buy-100-zillions-giftcards-get-20-extrabucks-stack-for-more-savings",
@@ -172,7 +245,7 @@
    "url": "https://www.doctorofcredit.com/va-md-nc-atlantic-union-bank-250-checking-bonus/",
    "published": "2026-11-06",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-07"
+   "last_seen": "2026-11-09"
   },
   {
    "id": "barclays-200-savings-bonus",
@@ -187,7 +260,7 @@
    "url": "https://www.doctorofcredit.com/barclays-200-savings-bonus/",
    "published": "2026-11-05",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-07"
+   "last_seen": "2026-11-09"
   },
   {
    "id": "farmers-insurance-federal-credit-union-figfcu-up-to-1500-business-checking-bonus",
@@ -202,7 +275,7 @@
    "url": "https://www.doctorofcredit.com/farmers-insurance-federal-credit-union-figfcu-up-to-1500-business-checking-bonus/",
    "published": "2026-11-05",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-07"
+   "last_seen": "2026-11-09"
   },
   {
    "id": "targeted-american-express-high-yield-savings-account-350-bonus",
@@ -217,7 +290,7 @@
    "url": "https://www.doctorofcredit.com/targeted-american-express-high-yield-savings-account-350-bonus/",
    "published": "2026-11-05",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-07"
+   "last_seen": "2026-11-09"
   },
   {
    "id": "cit-bank-35-apy-boost-for-6-months-new-existing-customers-code-citboost",
@@ -232,7 +305,7 @@
    "url": "https://www.doctorofcredit.com/cit-bank-35-apy-boost-for-6-months-new-existing-customers-code-citboost/",
    "published": "2026-11-03",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-07"
+   "last_seen": "2026-11-09"
   },
   {
    "id": "moomoo-brokerage-bonus-up-to-1000-with-50000-deposit-more",
