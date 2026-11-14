@@ -28,7 +28,7 @@
   }
  ],
  "updated": {
-  "bank": "2026-11-11",
+  "bank": "2026-11-14",
   "credit_card": "2026-11-13",
   "brokerage": "2026-11-13",
   "debit_card": "2026-11-13",
@@ -36,6 +36,21 @@
   "gift_card": "2026-11-14"
  },
  "offers": [
+  {
+   "id": "u-s-bank-450-100-checking-bonus",
+   "category": "bank",
+   "institution": "U.S. Bank",
+   "title": "U.S. Bank $450 Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 450,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/u-s-bank-450-100-checking-bonus/",
+   "published": "2026-11-12",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
   {
    "id": "citi-offers-5-off-25-starbucks-egiftcard-can-be-done-3-times",
    "category": "gift_card",
@@ -67,6 +82,51 @@
    "last_seen": "2026-11-14"
   },
   {
+   "id": "revolut-100-bonus-via-finder-direct-deposit-not-required",
+   "category": "bank",
+   "institution": "Revolut",
+   "title": "Revolut $100 Bonus Via Finder, Direct Deposit Not Required",
+   "reward_type": "cash",
+   "reward_value": 100,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/revolut-100-bonus-via-finder-direct-deposit-not-required/",
+   "published": "2026-11-11",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "targeted-u-s-bank-smartly-savings-500-bonus",
+   "category": "bank",
+   "institution": "U.S. Bank Smartly Savings",
+   "title": "U.S. Bank Smartly Savings $500 Bonus",
+   "reward_type": "cash",
+   "reward_value": 500,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/targeted-u-s-bank-smartly-savings-500-bonus/",
+   "published": "2026-11-11",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets",
+   "category": "bank",
+   "institution": "Wells Fargo Premier",
+   "title": "Wells Fargo Premier $2,500/$3,500 Bank or Investing Bonus (Requires $250k/$500k In Cash/Assets)",
+   "reward_type": "cash",
+   "reward_value": 500000,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets/",
+   "published": "2026-11-11",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-14"
+  },
+  {
    "id": "newegg-com-500-southwest-egiftcard-for-460-ssf898",
    "category": "gift_card",
    "institution": "Newegg.com",
@@ -94,7 +154,7 @@
    "url": "https://www.doctorofcredit.com/wells-fargo-400-825-business-checking-bonus/",
    "published": "2026-11-10",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-14"
   },
   {
    "id": "wells-fargo-500-checking-bonus",
@@ -109,22 +169,7 @@
    "url": "https://www.doctorofcredit.com/wells-fargo-500-checking-bonus/",
    "published": "2026-11-10",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "id": "wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets",
-   "category": "bank",
-   "institution": "Wells Fargo Premier",
-   "title": "Wells Fargo Premier $2,500 Bank or Investing Bonus (Requires $250k In Cash/Assets)",
-   "reward_type": "cash",
-   "reward_value": 250000,
-   "regions": [],
-   "expired": false,
-   "is_offer": true,
-   "url": "https://www.doctorofcredit.com/wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets/",
-   "published": "2026-11-10",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-14"
   },
   {
    "id": "banks-updating-terms-to-restrict-ai-access",
@@ -139,7 +184,7 @@
    "url": "https://www.doctorofcredit.com/banks-updating-terms-to-restrict-ai-access/",
    "published": "2026-11-09",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-14"
   },
   {
    "id": "tn-only-pinnacle-financial-partners-200-mastercard-checking-bonus",
@@ -156,7 +201,7 @@
    "url": "https://www.doctorofcredit.com/tn-only-pinnacle-financial-partners-200-mastercard-checking-bonus/",
    "published": "2026-11-09",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-14"
   },
   {
    "id": "uber-parking-launches-after-uber-buys-spothero",
@@ -188,7 +233,7 @@
    "url": "https://www.doctorofcredit.com/co-only-zing-credit-union-300-checking-bonus/",
    "published": "2026-11-08",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-14"
   },
   {
    "id": "sd-mn-american-bank-trust-250-checking-bonus",
@@ -206,7 +251,7 @@
    "url": "https://www.doctorofcredit.com/sd-mn-american-bank-trust-250-checking-bonus/",
    "published": "2026-11-08",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-14"
   },
   {
    "id": "target-com-get-10-back-with-100-giftcard-purchase-apple-uber-phone-card-home-depot-google-etc-11-8-11-14",
@@ -253,7 +298,7 @@
    "url": "https://www.doctorofcredit.com/albert-fintech-get-200-in-stock-for-free/",
    "published": "2026-11-07",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-14"
   },
   {
    "id": "co-only-on-tap-credit-union-150-checking-bonus",
@@ -270,7 +315,7 @@
    "url": "https://www.doctorofcredit.com/co-only-on-tap-credit-union-150-checking-bonus/",
    "published": "2026-11-07",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-14"
   },
   {
    "id": "fl-ma-nj-ny-vt-trustco-bank-250-stanley-cup-checking-bonus",
@@ -291,7 +336,7 @@
    "url": "https://www.doctorofcredit.com/fl-ma-nj-ny-vt-trustco-bank-250-stanley-cup-checking-bonus/",
    "published": "2026-11-07",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-14"
   },
   {
    "id": "fl-nj-ny-popular-bank-400-business-checking-bonus",
@@ -310,7 +355,7 @@
    "url": "https://www.doctorofcredit.com/fl-nj-ny-popular-bank-400-business-checking-bonus/",
    "published": "2026-11-07",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-14"
   },
   {
    "id": "ny-heritage-financial-credit-union-300-checking-bonus-direct-deposit-not-required",
@@ -363,7 +408,7 @@
    "url": "https://www.doctorofcredit.com/ut-goldenwest-credit-union-250-checking-bonus-ages-13-25-no-direct-deposit-required/",
    "published": "2026-11-07",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-14"
   },
   {
    "id": "cvs-buy-100-zillions-giftcards-get-20-extrabucks-stack-for-more-savings",
