@@ -33,9 +33,69 @@
   "brokerage": "2026-11-18",
   "debit_card": "2026-11-18",
   "freebie": "2026-11-16",
-  "gift_card": "2026-11-18"
+  "gift_card": "2026-11-19"
  },
  "offers": [
+  {
+   "id": "11-18-bestbuy-com-buy-100-amazon-home-depot-etc-get-10-bonus-giftcard-stack-with-amex-offer-or-citi-credit",
+   "category": "gift_card",
+   "institution": "BestBuy.com",
+   "title": "BestBuy.com: Buy $100 Amazon, Home Depot, Etc. & Get $10 Bonus Giftcard (Stack With Amex Offer or Citi Credit)",
+   "reward_type": "cash",
+   "reward_value": 10,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/11-18-bestbuy-com-buy-100-amazon-home-depot-etc-get-10-bonus-giftcard-stack-with-amex-offer-or-citi-credit/",
+   "published": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "id": "best-buy-in-store-100-best-buy-giftcard-for-60-11-27-only",
+   "category": "gift_card",
+   "institution": "Best Buy (In Store)",
+   "title": "Best Buy (In Store): $100 Best Buy Giftcard For $60 (11/27 Only)",
+   "reward_type": "cash",
+   "reward_value": 100,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/best-buy-in-store-100-best-buy-giftcard-for-60-11-27-only/",
+   "published": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "id": "capital-one-shopping-3-10-back-on-giftcards-com",
+   "category": "gift_card",
+   "institution": "Capital One Shopping/Offers",
+   "title": "Capital One Shopping/Offers: Up To 18.5% Back On Giftcards.com",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/capital-one-shopping-3-10-back-on-giftcards-com/",
+   "published": "2026-11-18",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "id": "target-com-save-15-on-one4all-swap-giftcard-grubhub-southwest-lyft-ulta-more",
+   "category": "gift_card",
+   "institution": "Target.com",
+   "title": "Target.com: Save 15% On One4All Swap Giftcard (Grubhub, Southwest, Lyft, Ulta & More)",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/target-com-save-15-on-one4all-swap-giftcard-grubhub-southwest-lyft-ulta-more/",
+   "published": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
   {
    "id": "united-mpx-app-restricts-gift-card-purchases-to-premier-members-cardholders",
    "category": "gift_card",
@@ -49,7 +109,7 @@
    "url": "https://www.doctorofcredit.com/united-mpx-app-restricts-gift-card-purchases-to-premier-members-cardholders/",
    "published": "2026-11-17",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "id": "capital-one-offers-18-back-at-cvs-10-back-at-walgreens",
@@ -64,7 +124,7 @@
    "url": "https://www.doctorofcredit.com/capital-one-offers-18-back-at-cvs-10-back-at-walgreens/",
    "published": "2026-11-16",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "id": "mygiftcardsplus-save-10-on-delta-egiftcards-more-11-10-only",
@@ -79,7 +139,7 @@
    "url": "https://www.doctorofcredit.com/mygiftcardsplus-save-10-on-delta-egiftcards-more-11-10-only/",
    "published": "2026-11-16",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "id": "u-s-bank-450-100-checking-bonus",
@@ -109,7 +169,7 @@
    "url": "https://www.doctorofcredit.com/citi-offers-5-off-25-starbucks-egiftcard-can-be-done-3-times/",
    "published": "2026-11-11",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "id": "revolut-100-bonus-via-finder-direct-deposit-not-required",
@@ -169,7 +229,7 @@
    "url": "https://www.doctorofcredit.com/newegg-com-500-southwest-egiftcard-for-460-ssf898/",
    "published": "2026-11-10",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "id": "wells-fargo-400-825-business-checking-bonus",
@@ -246,7 +306,7 @@
    "url": "https://www.doctorofcredit.com/uber-parking-launches-after-uber-buys-spothero/",
    "published": "2026-11-09",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "id": "co-only-zing-credit-union-300-checking-bonus",
@@ -296,7 +356,7 @@
    "url": "https://www.doctorofcredit.com/target-com-get-10-back-with-100-giftcard-purchase-apple-uber-phone-card-home-depot-google-etc-11-8-11-14/",
    "published": "2026-11-08",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "id": "al-avadian-credit-union-600-checking-bonus",
@@ -453,7 +513,7 @@
    "url": "https://www.doctorofcredit.com/cvs-buy-100-zillions-giftcards-get-20-extrabucks-stack-for-more-savings/",
    "published": "2026-11-06",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "id": "va-md-nc-atlantic-union-bank-250-checking-bonus",
@@ -813,7 +873,7 @@
    "url": "https://www.doctorofcredit.com/giant-stopshop-martins-get-6x-fuel-points-on-all-third-party-giftcards/",
    "published": "2026-10-30",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "id": "mercury-fintech-500-business-checking-bonus",
@@ -905,7 +965,7 @@
    "url": "https://www.doctorofcredit.com/ymmv-uber-app-get-10-15-discount-on-uber-giftcards/",
    "published": "2026-10-30",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "id": "paypal-launches-debit-card-that-earns-5-back-on-one-category-up-to-1000",
@@ -938,21 +998,6 @@
    "last_seen": "2026-11-01"
   },
   {
-   "id": "capital-one-shopping-3-10-back-on-giftcards-com",
-   "category": "gift_card",
-   "institution": "Capital One Shopping/Offers",
-   "title": "Capital One Shopping/Offers: Up To 17.5% Back On Giftcards.com",
-   "reward_type": "cash",
-   "reward_value": null,
-   "regions": [],
-   "expired": false,
-   "is_offer": true,
-   "url": "https://www.doctorofcredit.com/capital-one-shopping-3-10-back-on-giftcards-com/",
-   "published": "2026-10-28",
-   "first_seen": "2026-11-01",
-   "last_seen": "2026-11-18"
-  },
-  {
    "id": "newegg-com-600-in-delta-airlines-egiftcards-for-550",
    "category": "gift_card",
    "institution": "Newegg.com",
@@ -965,7 +1010,7 @@
    "url": "https://www.doctorofcredit.com/newegg-com-600-in-delta-airlines-egiftcards-for-550/",
    "published": "2026-10-27",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "id": "amex-offers-american-express-gift-cards-spend-750-get-50-back-2x",
