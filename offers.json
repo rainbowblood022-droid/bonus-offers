@@ -37,6 +37,36 @@
  },
  "offers": [
   {
+   "id": "bestbuy-com-buy-100-apple-giftcard-get-15-best-buy-giftcard-bonus",
+   "category": "gift_card",
+   "institution": "Bestbuy.com",
+   "title": "Bestbuy.com: Buy $100 Apple Giftcard & Get $15 Best Buy Giftcard Bonus",
+   "reward_type": "cash",
+   "reward_value": 100,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/bestbuy-com-buy-100-apple-giftcard-get-15-best-buy-giftcard-bonus/",
+   "published": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "id": "targeted-american-express-membership-rewards-discounts-on-gift-card-redemptions-apple-starbucks-delta-more",
+   "category": "gift_card",
+   "institution": "American Express Membership Rewards",
+   "title": "American Express Membership Rewards: Discounts On Gift Card Redemptions (Apple, Starbucks, Delta & More)",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/targeted-american-express-membership-rewards-discounts-on-gift-card-redemptions-apple-starbucks-delta-more/",
+   "published": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
    "id": "11-18-bestbuy-com-buy-100-amazon-home-depot-etc-get-10-bonus-giftcard-stack-with-amex-offer-or-citi-credit",
    "category": "gift_card",
    "institution": "BestBuy.com",
