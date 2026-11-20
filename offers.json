@@ -28,7 +28,7 @@
   }
  ],
  "updated": {
-  "bank": "2026-11-14",
+  "bank": "2026-11-20",
   "credit_card": "2026-11-19",
   "brokerage": "2026-11-18",
   "debit_card": "2026-11-18",
@@ -127,6 +127,21 @@
    "last_seen": "2026-11-20"
   },
   {
+   "id": "rakuten-alliant-credit-union-100-10000-checking-bonus",
+   "category": "bank",
+   "institution": "Alliant Credit Union",
+   "title": "Alliant Credit Union $200 Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 200,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/rakuten-alliant-credit-union-100-10000-checking-bonus/",
+   "published": "2026-11-17",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  {
    "id": "united-mpx-app-restricts-gift-card-purchases-to-premier-members-cardholders",
    "category": "gift_card",
    "institution": "United MPX App Restricts Gift Card Purchases To Premier Members & Cardholders",
@@ -157,6 +172,21 @@
    "last_seen": "2026-11-20"
   },
   {
+   "id": "clearstreet-deposit-5000-receive-250-bonus",
+   "category": "bank",
+   "institution": "ClearStreet",
+   "title": "ClearStreet: Deposit $5,000 & Receive $250 Bonus",
+   "reward_type": "cash",
+   "reward_value": 250,
+   "regions": [],
+   "expired": true,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/clearstreet-deposit-5000-receive-250-bonus/",
+   "published": "2026-11-16",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  {
    "id": "mygiftcardsplus-save-10-on-delta-egiftcards-more-11-10-only",
    "category": "gift_card",
    "institution": "Mygiftcardsplus",
@@ -172,6 +202,64 @@
    "last_seen": "2026-11-20"
   },
   {
+   "id": "md-d-c-va-lafayette-federal-credit-union-100-checking-bonus-2",
+   "category": "bank",
+   "institution": "Lafayette Federal Credit Union",
+   "title": "Lafayette Federal Credit Union $300 Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 300,
+   "regions": [
+    "MD",
+    "VA"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/md-d-c-va-lafayette-federal-credit-union-100-checking-bonus-2/",
+   "published": "2026-11-15",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  {
+   "id": "nh-ma-ri-ct-de-ny-nj-pa-or-fl-in-branch-santander-400-checking-bonus",
+   "category": "bank",
+   "institution": "Santander",
+   "title": "Santander $300-$500 Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 500,
+   "regions": [
+    "NH",
+    "MA",
+    "RI",
+    "CT",
+    "DE",
+    "NY",
+    "NJ",
+    "PA",
+    "FL"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/nh-ma-ri-ct-de-ny-nj-pa-or-fl-in-branch-santander-400-checking-bonus/",
+   "published": "2026-11-15",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  {
+   "id": "t-rowe-price-529-plan-bonus-get-250-with-250-contribution",
+   "category": "bank",
+   "institution": "T. Rowe Price 529 Plan Bonus",
+   "title": "T. Rowe Price 529 Plan Bonus: Get $250 With $250 Contribution",
+   "reward_type": "cash",
+   "reward_value": 250,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/t-rowe-price-529-plan-bonus-get-250-with-250-contribution/",
+   "published": "2026-11-15",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  {
    "id": "u-s-bank-450-100-checking-bonus",
    "category": "bank",
    "institution": "U.S. Bank",
@@ -184,7 +272,7 @@
    "url": "https://www.doctorofcredit.com/u-s-bank-450-100-checking-bonus/",
    "published": "2026-11-12",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-20"
   },
   {
    "id": "citi-offers-5-off-25-starbucks-egiftcard-can-be-done-3-times",
@@ -214,7 +302,7 @@
    "url": "https://www.doctorofcredit.com/revolut-100-bonus-via-finder-direct-deposit-not-required/",
    "published": "2026-11-11",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-20"
   },
   {
    "id": "targeted-u-s-bank-smartly-savings-500-bonus",
@@ -229,7 +317,7 @@
    "url": "https://www.doctorofcredit.com/targeted-u-s-bank-smartly-savings-500-bonus/",
    "published": "2026-11-11",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-20"
   },
   {
    "id": "wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets",
@@ -244,7 +332,7 @@
    "url": "https://www.doctorofcredit.com/wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets/",
    "published": "2026-11-11",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-20"
   },
   {
    "id": "newegg-com-500-southwest-egiftcard-for-460-ssf898",
@@ -274,7 +362,7 @@
    "url": "https://www.doctorofcredit.com/wells-fargo-400-825-business-checking-bonus/",
    "published": "2026-11-10",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-20"
   },
   {
    "id": "wells-fargo-500-checking-bonus",
@@ -289,7 +377,7 @@
    "url": "https://www.doctorofcredit.com/wells-fargo-500-checking-bonus/",
    "published": "2026-11-10",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-20"
   },
   {
    "id": "banks-updating-terms-to-restrict-ai-access",
@@ -304,7 +392,7 @@
    "url": "https://www.doctorofcredit.com/banks-updating-terms-to-restrict-ai-access/",
    "published": "2026-11-09",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-20"
   },
   {
    "id": "tn-only-pinnacle-financial-partners-200-mastercard-checking-bonus",
@@ -321,7 +409,7 @@
    "url": "https://www.doctorofcredit.com/tn-only-pinnacle-financial-partners-200-mastercard-checking-bonus/",
    "published": "2026-11-09",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-20"
   },
   {
    "id": "uber-parking-launches-after-uber-buys-spothero",
@@ -353,7 +441,7 @@
    "url": "https://www.doctorofcredit.com/co-only-zing-credit-union-300-checking-bonus/",
    "published": "2026-11-08",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-20"
   },
   {
    "id": "sd-mn-american-bank-trust-250-checking-bonus",
@@ -371,7 +459,7 @@
    "url": "https://www.doctorofcredit.com/sd-mn-american-bank-trust-250-checking-bonus/",
    "published": "2026-11-08",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-20"
   },
   {
    "id": "target-com-get-10-back-with-100-giftcard-purchase-apple-uber-phone-card-home-depot-google-etc-11-8-11-14",
