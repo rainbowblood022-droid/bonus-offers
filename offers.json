@@ -28,7 +28,7 @@
   }
  ],
  "updated": {
-  "bank": "2026-11-22",
+  "bank": "2026-11-23",
   "credit_card": "2026-11-19",
   "brokerage": "2026-11-23",
   "debit_card": "2026-11-18",
@@ -36,6 +36,71 @@
   "gift_card": "2026-11-22"
  },
  "offers": [
+  {
+   "id": "ca-only-keypoint-credit-union-200-checking-bonus",
+   "category": "bank",
+   "institution": "KeyPoint Credit Union",
+   "title": "KeyPoint Credit Union $300 Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 300,
+   "regions": [
+    "CA"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/ca-only-keypoint-credit-union-200-checking-bonus/",
+   "published": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  {
+   "id": "netspend-200-checking-bonus",
+   "category": "bank",
+   "institution": "Netspend",
+   "title": "Netspend $200 Checking Bonus",
+   "reward_type": "cash",
+   "reward_value": 200,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/netspend-200-checking-bonus/",
+   "published": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  {
+   "id": "wi-mn-only-westconsin-credit-union-400-checking-bonus-100-charity-donation-direct-deposit-not-required",
+   "category": "bank",
+   "institution": "Westconsin Credit Union",
+   "title": "Westconsin Credit Union $500 Checking Bonus, Direct Deposit Not Required",
+   "reward_type": "cash",
+   "reward_value": 500,
+   "regions": [
+    "WI",
+    "MN"
+   ],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/wi-mn-only-westconsin-credit-union-400-checking-bonus-100-charity-donation-direct-deposit-not-required/",
+   "published": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  {
+   "id": "clear-street-3-brokerage-match-5-year-hold",
+   "category": "bank",
+   "institution": "Clear Street 3% Brokerage Match (5 Year Hold)",
+   "title": "Clear Street 3% Brokerage Match (5 Year Hold)",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/clear-street-3-brokerage-match-5-year-hold/",
+   "published": "2026-11-22",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
   {
    "id": "ca-only-heritage-community-credit-union-500-checking-bonus",
    "category": "bank",
@@ -51,7 +116,7 @@
    "url": "https://www.doctorofcredit.com/ca-only-heritage-community-credit-union-500-checking-bonus/",
    "published": "2026-11-21",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-22"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "amazon-save-on-giftcards-for-zift-inkind-and-more",
@@ -96,7 +161,7 @@
    "url": "https://www.doctorofcredit.com/webull-brokerage-2-transfer-match-36-month-hold/",
    "published": "2026-11-20",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-22"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "bestbuy-com-buy-100-apple-giftcard-get-15-best-buy-giftcard-bonus",
@@ -201,7 +266,7 @@
    "url": "https://www.doctorofcredit.com/rakuten-alliant-credit-union-100-10000-checking-bonus/",
    "published": "2026-11-17",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-22"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "united-mpx-app-restricts-gift-card-purchases-to-premier-members-cardholders",
@@ -231,7 +296,7 @@
    "url": "https://www.doctorofcredit.com/clearstreet-deposit-5000-receive-250-bonus/",
    "published": "2026-11-16",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-22"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "mygiftcardsplus-save-10-on-delta-egiftcards-more-11-10-only",
@@ -264,7 +329,7 @@
    "url": "https://www.doctorofcredit.com/md-d-c-va-lafayette-federal-credit-union-100-checking-bonus-2/",
    "published": "2026-11-15",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-22"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "nh-ma-ri-ct-de-ny-nj-pa-or-fl-in-branch-santander-400-checking-bonus",
@@ -289,7 +354,7 @@
    "url": "https://www.doctorofcredit.com/nh-ma-ri-ct-de-ny-nj-pa-or-fl-in-branch-santander-400-checking-bonus/",
    "published": "2026-11-15",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-22"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "t-rowe-price-529-plan-bonus-get-250-with-250-contribution",
@@ -304,7 +369,7 @@
    "url": "https://www.doctorofcredit.com/t-rowe-price-529-plan-bonus-get-250-with-250-contribution/",
    "published": "2026-11-15",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-22"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "u-s-bank-450-100-checking-bonus",
@@ -319,7 +384,7 @@
    "url": "https://www.doctorofcredit.com/u-s-bank-450-100-checking-bonus/",
    "published": "2026-11-12",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-22"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "citi-offers-5-off-25-starbucks-egiftcard-can-be-done-3-times",
@@ -349,7 +414,7 @@
    "url": "https://www.doctorofcredit.com/revolut-100-bonus-via-finder-direct-deposit-not-required/",
    "published": "2026-11-11",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-22"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "targeted-u-s-bank-smartly-savings-500-bonus",
@@ -364,7 +429,7 @@
    "url": "https://www.doctorofcredit.com/targeted-u-s-bank-smartly-savings-500-bonus/",
    "published": "2026-11-11",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-22"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets",
@@ -379,7 +444,7 @@
    "url": "https://www.doctorofcredit.com/wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets/",
    "published": "2026-11-11",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-22"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "newegg-com-500-southwest-egiftcard-for-460-ssf898",
