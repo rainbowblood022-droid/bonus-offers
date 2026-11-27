@@ -33,7 +33,7 @@
   "brokerage": "2026-11-27",
   "debit_card": "2026-11-25",
   "freebie": "2026-11-21",
-  "gift_card": "2026-11-26"
+  "gift_card": "2026-11-27"
  },
  "offers": [
   {
@@ -54,6 +54,21 @@
    "last_seen": "2026-11-27"
   },
   {
+   "id": "amazon-save-on-giftcards-for-uber-lyft-zift-choice-hotels-com-amtrak-inkind-many-more",
+   "category": "gift_card",
+   "institution": "Amazon",
+   "title": "Amazon: Save on Giftcards for Airbnb, Uber, Lyft, Zift, Choice, Hotels.com, Amtrak, inKind & Many More",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/amazon-save-on-giftcards-for-uber-lyft-zift-choice-hotels-com-amtrak-inkind-many-more/",
+   "published": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
    "id": "best-buy-in-store-100-best-buy-giftcard-for-60-11-27-only",
    "category": "gift_card",
    "institution": "Best Buy (In Store)",
@@ -66,7 +81,37 @@
    "url": "https://www.doctorofcredit.com/best-buy-in-store-100-best-buy-giftcard-for-60-11-27-only/",
    "published": "2026-11-27",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "doordash-save-15-off-many-egiftcard-brands-starbucks-zift-amazon-lowes-doordash-walgreens-outback-and-many-more",
+   "category": "gift_card",
+   "institution": "DoorDash DashPass Members",
+   "title": "DoorDash DashPass Members: 20% Off DoorDash Giftcard",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/doordash-save-15-off-many-egiftcard-brands-starbucks-zift-amazon-lowes-doordash-walgreens-outback-and-many-more/",
+   "published": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "google-play-app-save-on-giftcards-for-starbucks-instacart-home-depot-lowes-uber-lyft-doordash-st-tarbucks-uber-chipotle-",
+   "category": "gift_card",
+   "institution": "Google Play App",
+   "title": "Google Play App: Save on Giftcards For Starbucks, Instacart, Home Depot, Lowe’s, Uber, Lyft, DoorDash, Starbucks, Uber, Chipotle & More",
+   "reward_type": "cash",
+   "reward_value": null,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/google-play-app-save-on-giftcards-for-starbucks-instacart-home-depot-lowes-uber-lyft-doordash-st-tarbucks-uber-chipotle-more/",
+   "published": "2026-11-27",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-27"
   },
   {
    "id": "spruce-money-fintech-100-referral-bonus",
@@ -99,6 +144,21 @@
    "last_seen": "2026-11-27"
   },
   {
+   "id": "giftcards-com-get-bonus-10-giftcard-with-100-giftcard-purchase-visa-mastercard-disney-ulta-kohls-more",
+   "category": "gift_card",
+   "institution": "Giftcards.com",
+   "title": "Giftcards.com: Get Bonus $10 Giftcard With $100 Giftcard Purchase (Visa, Mastercard, Disney, Ulta, Kohl’s & More)",
+   "reward_type": "cash",
+   "reward_value": 100,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/giftcards-com-get-bonus-10-giftcard-with-100-giftcard-purchase-visa-mastercard-disney-ulta-kohls-more/",
+   "published": "2026-11-26",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
    "id": "giftcards-com-save-10-on-lowes-uber-egiftcards",
    "category": "gift_card",
    "institution": "Giftcards.com",
@@ -111,7 +171,7 @@
    "url": "https://www.doctorofcredit.com/giftcards-com-save-10-on-lowes-uber-egiftcards/",
    "published": "2026-11-25",
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "citigold-making-changes-to-200-400-annual-subscription-benefit-spotify-hulu-to-be-removed-chatgpt-added",
@@ -172,7 +232,7 @@
    "url": "https://www.doctorofcredit.com/newegg-com-save-on-albertsons-southwest-giftcards-5-9/",
    "published": "2026-11-24",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "target-com-save-15-on-uber-egiftcards-today-only-11-24",
@@ -187,7 +247,7 @@
    "url": "https://www.doctorofcredit.com/target-com-save-15-on-uber-egiftcards-today-only-11-24/",
    "published": "2026-11-24",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "targeted-lendingclub-level-up-200-checking-bonus",
@@ -344,7 +404,7 @@
    "url": "https://www.doctorofcredit.com/amazon-save-on-giftcards-for-zift-inkind-and-more/",
    "published": "2026-11-20",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "capital-one-offers-18-back-at-cvs-10-back-at-walgreens",
@@ -359,7 +419,7 @@
    "url": "https://www.doctorofcredit.com/capital-one-offers-18-back-at-cvs-10-back-at-walgreens/",
    "published": "2026-11-20",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "webull-brokerage-2-transfer-match-36-month-hold",
@@ -389,7 +449,7 @@
    "url": "https://www.doctorofcredit.com/bestbuy-com-buy-100-apple-giftcard-get-15-best-buy-giftcard-bonus/",
    "published": "2026-11-19",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "targeted-american-express-membership-rewards-discounts-on-gift-card-redemptions-apple-starbucks-delta-more",
@@ -404,7 +464,7 @@
    "url": "https://www.doctorofcredit.com/targeted-american-express-membership-rewards-discounts-on-gift-card-redemptions-apple-starbucks-delta-more/",
    "published": "2026-11-19",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "11-18-bestbuy-com-buy-100-amazon-home-depot-etc-get-10-bonus-giftcard-stack-with-amex-offer-or-citi-credit",
@@ -419,7 +479,7 @@
    "url": "https://www.doctorofcredit.com/11-18-bestbuy-com-buy-100-amazon-home-depot-etc-get-10-bonus-giftcard-stack-with-amex-offer-or-citi-credit/",
    "published": "2026-11-18",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "capital-one-shopping-3-10-back-on-giftcards-com",
@@ -434,7 +494,7 @@
    "url": "https://www.doctorofcredit.com/capital-one-shopping-3-10-back-on-giftcards-com/",
    "published": "2026-11-18",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "target-com-save-15-on-one4all-swap-giftcard-grubhub-southwest-lyft-ulta-more",
@@ -449,7 +509,7 @@
    "url": "https://www.doctorofcredit.com/target-com-save-15-on-one4all-swap-giftcard-grubhub-southwest-lyft-ulta-more/",
    "published": "2026-11-18",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "rakuten-alliant-credit-union-100-10000-checking-bonus",
@@ -1514,21 +1574,6 @@
    "published": "2026-10-14",
    "first_seen": "2026-11-01",
    "last_seen": "2026-11-14"
-  },
-  {
-   "id": "google-play-app-save-on-giftcards-for-starbucks-instacart-home-depot-lowes-uber-lyft-doordash-st-tarbucks-uber-chipotle-",
-   "category": "gift_card",
-   "institution": "Google Play App",
-   "title": "Google Play App: Save on Giftcards For Starbucks, Instacart, Home Depot, Lowe’s, Uber, Lyft, DoorDash, St tarbucks, Uber, Chipotle & More",
-   "reward_type": "cash",
-   "reward_value": null,
-   "regions": [],
-   "expired": false,
-   "is_offer": false,
-   "url": "https://www.doctorofcredit.com/google-play-app-save-on-giftcards-for-starbucks-instacart-home-depot-lowes-uber-lyft-doordash-st-tarbucks-uber-chipotle-more/",
-   "published": "2026-10-13",
-   "first_seen": "2026-11-01",
-   "last_seen": "2026-11-11"
   },
   {
    "id": "newegg-com-250-instacart-egiftcard-for-235-code-gtwf357",
