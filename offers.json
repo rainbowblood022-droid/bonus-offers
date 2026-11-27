@@ -28,7 +28,7 @@
   }
  ],
  "updated": {
-  "bank": "2026-11-26",
+  "bank": "2026-11-27",
   "credit_card": "2026-11-26",
   "brokerage": "2026-11-27",
   "debit_card": "2026-11-25",
@@ -51,7 +51,7 @@
    "url": "https://www.doctorofcredit.com/wa-or-id-in-branch-columbia-bank-300-checking-bonus/",
    "published": "2026-11-28",
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "best-buy-in-store-100-best-buy-giftcard-for-60-11-27-only",
@@ -67,6 +67,36 @@
    "published": "2026-11-27",
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-26"
+  },
+  {
+   "id": "spruce-money-fintech-100-referral-bonus",
+   "category": "bank",
+   "institution": "Spruce Money (Fintech)",
+   "title": "Spruce Money (Fintech) $100 Referral Bonus",
+   "reward_type": "cash",
+   "reward_value": 100,
+   "regions": [],
+   "expired": false,
+   "is_offer": true,
+   "url": "https://www.doctorofcredit.com/spruce-money-fintech-100-referral-bonus/",
+   "published": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "binance-earn-10-150-in-crypto-for-depositing-100-1000",
+   "category": "bank",
+   "institution": "Binance",
+   "title": "Binance: Earn $10-$150 In Crypto For Depositing $100-$1,000",
+   "reward_type": "cash",
+   "reward_value": 1000,
+   "regions": [],
+   "expired": false,
+   "is_offer": false,
+   "url": "https://www.doctorofcredit.com/binance-earn-10-150-in-crypto-for-depositing-100-1000/",
+   "published": "2026-11-26",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
   },
   {
    "id": "giftcards-com-save-10-on-lowes-uber-egiftcards",
@@ -96,7 +126,7 @@
    "url": "https://www.doctorofcredit.com/citigold-making-changes-to-200-400-annual-subscription-benefit-spotify-hulu-to-be-removed-chatgpt-added/",
    "published": "2026-11-24",
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "fifth-third-200-checking-bonus-fl-ga-il-ky-mi-nc-oh-tn-wv",
@@ -127,7 +157,7 @@
    "url": "https://www.doctorofcredit.com/fifth-third-200-checking-bonus-fl-ga-il-ky-mi-nc-oh-tn-wv/",
    "published": "2026-11-24",
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "newegg-com-save-on-albertsons-southwest-giftcards-5-9",
@@ -172,7 +202,7 @@
    "url": "https://www.doctorofcredit.com/targeted-lendingclub-level-up-200-checking-bonus/",
    "published": "2026-11-24",
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "ca-only-keypoint-credit-union-200-checking-bonus",
@@ -189,7 +219,7 @@
    "url": "https://www.doctorofcredit.com/ca-only-keypoint-credit-union-200-checking-bonus/",
    "published": "2026-11-23",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "lili-fintech-300-business-checking-bonus",
@@ -204,7 +234,7 @@
    "url": "https://www.doctorofcredit.com/lili-fintech-300-business-checking-bonus/",
    "published": "2026-11-23",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "netspend-200-checking-bonus",
@@ -219,7 +249,7 @@
    "url": "https://www.doctorofcredit.com/netspend-200-checking-bonus/",
    "published": "2026-11-23",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "truist-pay-with-paze-get-10-off-20-limit-1",
@@ -234,7 +264,7 @@
    "url": "https://www.doctorofcredit.com/truist-pay-with-paze-get-10-off-20-limit-1/",
    "published": "2026-11-23",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "wi-mn-only-westconsin-credit-union-400-checking-bonus-100-charity-donation-direct-deposit-not-required",
@@ -252,7 +282,7 @@
    "url": "https://www.doctorofcredit.com/wi-mn-only-westconsin-credit-union-400-checking-bonus-100-charity-donation-direct-deposit-not-required/",
    "published": "2026-11-23",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "x-money-earn-5-back-on-up-to-1000-in-debit-card-purchases-11-23-11-30",
@@ -267,7 +297,7 @@
    "url": "https://www.doctorofcredit.com/x-money-earn-5-back-on-up-to-1000-in-debit-card-purchases-11-23-11-30/",
    "published": "2026-11-23",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "clear-street-3-brokerage-match-5-year-hold",
@@ -282,7 +312,7 @@
    "url": "https://www.doctorofcredit.com/clear-street-3-brokerage-match-5-year-hold/",
    "published": "2026-11-22",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "ca-only-heritage-community-credit-union-500-checking-bonus",
@@ -299,7 +329,7 @@
    "url": "https://www.doctorofcredit.com/ca-only-heritage-community-credit-union-500-checking-bonus/",
    "published": "2026-11-21",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "amazon-save-on-giftcards-for-zift-inkind-and-more",
@@ -344,7 +374,7 @@
    "url": "https://www.doctorofcredit.com/webull-brokerage-2-transfer-match-36-month-hold/",
    "published": "2026-11-20",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "id": "bestbuy-com-buy-100-apple-giftcard-get-15-best-buy-giftcard-bonus",
